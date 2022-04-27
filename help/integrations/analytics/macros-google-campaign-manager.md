@@ -45,12 +45,16 @@ https://www.adobe.com/home?someparam1=somevalue1&%pamo=!;
 1. Click the advertiser name.
 1. In the [!UICONTROL Landing page URL suffix] settings, include `%pamo!;` in the [!UICONTROL URL suffix] field.
 
+![advertiser-level settings](/help/integrations/assets/macro-ggl360-advertiser.png)
+
 ### Configure the Campaign-Level Landing Page URL Suffix
 
 1. In the main menu, click the [!UICONTROL Campaigns] tab.
 1. Click the campaign name.
 1. Click [!UICONTROL Properties].
 1. In the [!UICONTROL Landing page URL suffix] settings, include `%pamo!;` in the [!UICONTROL URL suffix] field.
+
+![campaign-level settings](/help/integrations/assets/macro-ggl360-campaign.png)
 
 ### Configure the Creative-Level Landing Page URL Suffix
 
@@ -59,6 +63,8 @@ https://www.adobe.com/home?someparam1=somevalue1&%pamo=!;
 1. In the [!UICONTROL Views] menu, select [!UICONTROL Creatives].
 1. Click the creative name.
 1. In the [!UICONTROL Click tags] setting, include `%pamo!;` in the [!UICONTROL Landing page] column for the click tag.
+
+![creative-level settings](/help/integrations/assets/macro-ggl360-creative.png)
 
 ## How [!DNL Analytics for Advertising Cloud] Macros Are Expanded in DSP
 
