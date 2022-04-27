@@ -23,7 +23,7 @@ Use macros for [!DNL Campaign Manager 360] display and video ads for the followi
 
 ## Append the Macros to Your [!DNL Google Campaign Manager 360] Ads
 
-Within [!DNL Google Campaign Manager 360], append to the following parameter to the landing page URL: `%pamo=!;`
+Within [!DNL Google Campaign Manager 360], append to the following parameter to the landing page URL for each of your display and video ads: `%pamo=!;`
 
 You can specify the landing page URL in several ways. Instructions for each option are included in the following subsections.
 
@@ -39,20 +39,20 @@ https://www.adobe.com/home?someparam1=somevalue1&%pamo=!;
 >* If the landing page URL includes a hash symbol (#), which is not common, then place the `amo` parameter before the hash symbol.
 >* If no other parameters are included after the `amo` parameter, then add a parameter (for example, &a=b) after it. Example:`https://www.adobe.com/home?someparam1=somevalue1&%pamo=!;&a=b#login`
 
-## Configure the Advertiser-Level Landing Page URL Suffix
+### Configure the Advertiser-Level Landing Page URL Suffix
 
 1. In the main menu, click the [!UICONTROL Advertisers] tab.
 1. Click the advertiser name.
 1. In the [!UICONTROL Landing page URL suffix] settings, include `%pamo!;` in the [!UICONTROL URL suffix] field.
 
-## Configure the Campaign-Level Landing Page URL Suffix
+### Configure the Campaign-Level Landing Page URL Suffix
 
 1. In the main menu, click the [!UICONTROL Campaigns] tab.
 1. Click the campaign name.
 1. Click [!UICONTROL Properties].
 1. In the [!UICONTROL Landing page URL suffix] settings, include `%pamo!;` in the [!UICONTROL URL suffix] field.
 
-## Configure the Creative-Level Landing Page URL Suffix
+### Configure the Creative-Level Landing Page URL Suffix
 
 1. In the main menu, click the [!UICONTROL Campaigns] tab.
 1. Click the campaign name.
