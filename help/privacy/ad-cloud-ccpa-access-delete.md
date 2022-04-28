@@ -50,13 +50,13 @@ To make requests to access and delete consumer personal information from Adverti
    >
    >Deleting personal data is different than opting out, which stops the targeting of an end user with audience segments. However, when a consumer asks to delete personal data from [!DNL Creative], [!DNL DSP], or [!DNL DCO], the library also sends a request to Advertising Cloud to opt out the customer from segment targeting. For advertisers with [!DNL Search], we recommend that you provide your customers a link to [https://www.adobe.com/privacy/opt-out.html#customeruse](https://www.adobe.com/privacy/opt-out.html#customeruse), which explains how to opt out of audience segment targeting. 
 
-1. Identify your organization's Experience Cloud ID and make sure it is linked to your Advertising Cloud accounts.
+1. Identify your Experience Cloud organization ID and make sure it is linked to your Advertising Cloud accounts.
 
-   An Experience Cloud ID is a 24-character alphanumeric string appended with "@AdobeOrg." Most Experience Cloud customers have been assigned an ID. If your marketing team or internal Adobe system administrator doesn't know your organization's ID, or isn't sure if it's been provisioned, contact Adobe Customer Care at gdprsupport@adobe.com. You'll need the ID to submit requests to the Privacy API using the `imsOrgID` namespace.
+   An Experience Cloud organization ID is a 24-character alphanumeric string appended with "@AdobeOrg." Most Experience Cloud customers have been assigned an organization ID. If your marketing team or internal Adobe system administrator doesn't know your organization ID, or isn't sure if it's been provisioned, contact Adobe Customer Care at gdprsupport@adobe.com. You'll need the organization ID to submit requests to the Privacy API using the `imsOrgID` namespace.
 
    >[!IMPORTANT]
    >
-   >Contact your company’s Advertising Cloud representative to confirm that all of your organization's Advertising Cloud accounts &mdash; including [!DNL DSP] accounts or advertisers, [!DNL Search] accounts, and [!DNL Creative] or [!DNL DCO] accounts &mdash; are linked to your Experience Cloud ID.
+   >Contact your company’s Advertising Cloud representative to confirm that all of your organization's Advertising Cloud accounts &mdash; including [!DNL DSP] accounts or advertisers, [!DNL Search] accounts, and [!DNL Creative] or [!DNL DCO] accounts &mdash; are linked to your Experience Cloud organization ID.
 
 1. Use either the [Adobe Experience Platform Privacy Service API](https://experienceleague.adobe.com/docs/experience-platform/privacy/api/privacy-jobs.html) (for automated requests) or the [Privacy Service UI](https://experienceleague.adobe.com/docs/experience-platform/privacy/ui/user-guide.html) (for ad-hoc requests) to submit requests to access and delete personal information to Advertising Cloud on behalf of consumers, and to check the status of existing requests.
 
@@ -68,7 +68,7 @@ To make requests to access and delete consumer personal information from Adverti
 
    >[!NOTE]
    >
-   >If your business has multiple Experience Cloud IDs, then you must send separate API requests for each. You can, however make one API request to multiple Advertising Cloud sub-solutions ([!DNL Search], [!DNL Creative], [!DNL DSP], and [!DNL DCO]), with one account per sub-solution.
+   >If your business has multiple Experience Cloud organization IDs, then you must send separate API requests for each. You can, however make one API request to multiple Advertising Cloud sub-solutions ([!DNL Search], [!DNL Creative], [!DNL DSP], and [!DNL DCO]), with one account per sub-solution.
 
 All of these steps are necessary to receive support from Advertising Cloud. For more information about these and other related tasks you need to perform using the Adobe Experience Platform Privacy Service, and where to find the items you'll need, see [https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html](https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html).
 
@@ -77,7 +77,7 @@ All of these steps are necessary to receive support from Advertising Cloud. For 
 `"company context":`
 
 * `"namespace": **imsOrgID**`
-* `"value":` <*your organization's Experience Cloud ID value*>
+* `"value":` <*your Experience Cloud organization ID*>
 
 "users": 
 

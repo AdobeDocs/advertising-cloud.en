@@ -79,7 +79,7 @@ With people-based attribution, you can attribute conversions that took place on 
 
 ### Enable People-Based Attribution Measurement
 
-If you would like to activate cross-device attribution measurement, contact your [!DNL Adobe] account team. For [!DNL Adobe Device Co-op] accounts, you'll need to provide your signed [!DNL Adobe Device Co-op] contract and the organization's Experience Cloud ID (formerly called [!DNL IMS org ID]).
+If you would like to activate cross-device attribution measurement, contact your [!DNL Adobe] account team. For [!DNL Adobe Device Co-op] accounts, you'll need to provide your signed [!DNL Adobe Device Co-op] contract and your Experience Cloud organization ID (formerly called [!DNL IMS org ID]).
 
 To see if an advertiser account is configured to use a device graph for attribution measurement:
 
