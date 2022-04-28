@@ -22,15 +22,15 @@ description: See descriptions of the available advertiser settings.
 
 ### [!UICONTROL Adobe IMS IDs]
 
-Advertisers with additional Adobe Experience Cloud products can share data across some products using the company's unique [!DNL Organization ID] for Experience Cloud. You can configure specific product integrations in the [!UICONTROL Integrations] section.
+Advertisers with additional Adobe Experience Cloud products can share data across some products using the organization's unique ID for Experience Cloud. You can configure specific product integrations in the [!UICONTROL Integrations] section.
 
-**[!UICONTROL Account IMS org and ID]:** (Advertisers with additional Experience Cloud products that are licensed through an Experience Cloud account with multiple advertisers; optional) The account's Experience Cloud [!DNL Organization ID].
+**[!UICONTROL Account IMS org and ID]:** (Advertisers with additional Experience Cloud products that are licensed through an Experience Cloud account with multiple advertisers; optional) The organization's Experience Cloud ID.
 
-**[!UICONTROL Advertiser IMS org and ID]:** (Advertisers with direct licenses for additional Experience Cloud products; optional) The advertiser's Experience Cloud [!DNL Organization ID].
+**[!UICONTROL Advertiser IMS org and ID]:** (Advertisers with direct licenses for additional Experience Cloud products; optional) The organization's Experience Cloud ID.
 
 ### [!UICONTROL Integrations]
 
-(Optional) Additional Experience Cloud products linked to the DSP account. The products must be associated with the same Experience Cloud [!DNL Organization ID] provided in the [!UICONTROL Adobe IMS IDs] section.
+(Optional) Additional Experience Cloud products linked to the DSP account. The products must be associated with the same Experience Cloud ID provided in the [!UICONTROL Adobe IMS IDs] section.
 
 **[!UICONTROL Adobe Media Optimizer]:** (Advertisers with Advertising Cloud Search or who use Advertising Cloud conversion pixels) A [!DNL Search] account with which DSP will exchange attribution data.
 

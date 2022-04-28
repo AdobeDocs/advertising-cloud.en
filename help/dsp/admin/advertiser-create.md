@@ -18,7 +18,7 @@ Advertisers are available to all users in the organization account.
 
       1. Specify the [!UICONTROL General] settings.
       
-      1. (Optional) To configure integrations between DSP and other Adobe Experience Cloud products, enter the advertiser's Experience Cloud [!DNL Organization ID] in the [!UICONTROL Adobe IMS IDs] section, and then configure the product integrations in the [!UICONTROL Integrations] section.
+      1. (Optional) To configure integrations between DSP and other Adobe Experience Cloud products, enter the advertiser's Experience Cloud ID for their organization in the [!UICONTROL Adobe IMS IDs] section, and then configure the product integrations in the [!UICONTROL Integrations] section.
 
    1. (Optional) In the [!UICONTROL Targeting] sections, specify default targets for each new placement.
 

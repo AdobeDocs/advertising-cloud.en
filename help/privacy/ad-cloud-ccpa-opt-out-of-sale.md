@@ -42,7 +42,7 @@ You can communicate consumer opt-out-of-sale requests by using either:
 
 ### Method 2: Communicate CCPA Opt-Out-of-Sale Requests Using the Adobe Experience Platform Privacy Service API
 
-*Advertisers assigned an Adobe Experience Cloud [!DNL Organization ID] ([!DNL IMS Org ID]) only*
+*Advertisers assigned an Adobe Experience Cloud ID only*
 
 1. Deploy a JavaScript library to retrieve your customer's cookies. The same library, `AdobePrivacy.js`, is used for all Adobe Experience Cloud solutions.
 
@@ -52,13 +52,13 @@ You can communicate consumer opt-out-of-sale requests by using either:
 
    You should deploy the library on the web page from which your customers can submit opt-out-of-sale requests, such as your company's privacy portal. The library helps you retrieve Adobe cookies (namespace ID: `gsurferID`) so that you can submit these identities as part of opt-out-of-sale requests via the Adobe Experience Platform Privacy Service API.
 
-1. Identify your IMS Org ID and make sure it's linked to your Advertising Cloud accounts.
+1. Identify your Experience Cloud ID and make sure it's linked to your Advertising Cloud accounts.
 
-   An IMS Org ID is a 24-character alphanumeric string appended with @AdobeOrg. Most Adobe Experience Cloud customers have been assigned an IMS Org ID. If your marketing team or internal Adobe system administrator doesn't know your organization's IMS Org ID, or isn't sure if it's been provisioned, contact Adobe Customer Care at gdprsupport@adobe.com. You'll need the IMS Org ID to submit requests to the Privacy API.
+   An Experience Cloud ID is a 24-character alphanumeric string appended with "@AdobeOrg." Most Experience Cloud customers have been assigned an ID. If your marketing team or internal Adobe system administrator doesn't know your organization's ID, or isn't sure if it's been provisioned, contact Adobe Customer Care at gdprsupport@adobe.com. You'll need the ID to submit requests to the Privacy API using the `imsOrgID` namespace.
 
    >[!IMPORTANT]
    >
-   >Contact your company’s Advertising Cloud representative to confirm that all of your organization's Advertising Cloud accounts &mdash; including [!DNL DSP] accounts or advertisers, [!DNL Search] accounts, and [!DNL Creative] or [!DNL DCO] accounts &mdash; are linked to your IMS Org ID.
+   >Contact your company’s Advertising Cloud representative to confirm that all of your organization's Advertising Cloud accounts &mdash; including [!DNL DSP] accounts or advertisers, [!DNL Search] accounts, and [!DNL Creative] or [!DNL DCO] accounts &mdash; are linked to your Experience Cloud ID.
 
 1. Use the Adobe Experience Platform Privacy Service API to [submit opt-out-of-sale requests](https://experienceleague.adobe.com/docs/experience-platform/privacy/api/consent.html) to Advertising Cloud on behalf of consumers, and to check the status of existing requests.
 
@@ -66,7 +66,7 @@ You can communicate consumer opt-out-of-sale requests by using either:
 
    >[!NOTE]
    >
-   >If your business has multiple Adobe Experience Cloud Identity Management Service Organization IDs (IMS Org IDs), then you must send separate API requests for each. You can, however make one API request to multiple Advertising Cloud sub-solutions ([!DNL Search], [!DNL Creative], [!DNL DSP], and [!DNL DCO]), with one account per sub-solution.
+   >If your business has multiple Experience Cloud IDs, then you must send separate API requests for each. You can, however make one API request to multiple Advertising Cloud sub-solutions ([!DNL Search], [!DNL Creative], [!DNL DSP], and [!DNL DCO]), with one account per sub-solution.
 
 All of these steps are necessary to receive support from Advertising Cloud. For more information about these and other related tasks you need to perform using the Adobe Experience Platform Privacy Service, and where to find the items you'll need, see [https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html](https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html).
 

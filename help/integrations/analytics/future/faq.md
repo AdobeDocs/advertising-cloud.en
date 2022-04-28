@@ -28,5 +28,5 @@ Our auditor is asking us to disable this feature. What happens if we block those
 
 A:  We checked with our product and they mentioned that the pixels in question are for the purpose of increasing cookie match rates between Ad Cloud, specific inventory/SSP partners (with respect to DSP), and AAM.  If they are removed, the customer may see some level of diminished match rate between AAC/AAM and the inventory partners the respective pixels are for, but they wouldn't expect it to be substantial.
 
-For Ad Cloud Search, we do see IMS Org is setup for Mathworks but our product team don’t see Mathworks setup to activate audiences in Ad Cloud. Are you using Adobe Audience manager for sending Audiences to Ad Cloud Search? If not, removing these will not have an impact on current workflow. AAM Customer Care can assist with the removal of these pixels if you don’t want them to be fired. 
+For Ad Cloud Search, we do see the organization's Experience Cloud ID is setup for Mathworks but our product team don’t see Mathworks setup to activate audiences in Ad Cloud. Are you using Adobe Audience manager for sending Audiences to Ad Cloud Search? If not, removing these will not have an impact on current workflow. AAM Customer Care can assist with the removal of these pixels if you don’t want them to be fired. 
 
