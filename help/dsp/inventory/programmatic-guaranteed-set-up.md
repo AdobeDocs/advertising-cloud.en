@@ -32,11 +32,9 @@ This is the preferred method for [!DNL FreeWheel], [!DNL Google Authorized Buyer
    
    * If you're accepting a proposal with multiple PG deal IDs, then identify each PG default placement you need to create. Once you create all required placements, the continue button is enabled.
 
-1. (Optional) Target the PG deal in additional, PG or non-PG placements by clicking on ![Options menu](/help/dsp/assets/options-menu.png) **> [!UICONTROL Attach new placement]**.
+1. (Optional) Target the PG deal in additional PG or non-PG placements by clicking ![Options menu](/help/dsp/assets/options-menu.png) **> [!UICONTROL Attach new placement]**.
 
->[!NOTE]
->
->It is possible to attach multiple placements supporting different types (CTV, Desktop, Audio etc.) to the same deal.   
+    A deal can target multiple placements that support any combination of media types (such as connected TV, desktop, and audio).   
 
 ## Manually Set up a Programmatic Guaranteed Deal
 
@@ -48,12 +46,9 @@ Use this method for all other SSPs.
 
    Creating a PG default placement for the deal is mandatory to deliver 100% of your buy. This type of placement has no targeting so DSP can return a bid to every bid request from the publisher.
 
-1. (Optional) Target the PG deal in additional, PG or non-PG placements by clicking on ![Options menu](/help/dsp/assets/options-menu.png) **> [!UICONTROL Attach new placement]**.
+1. (Optional) Target the PG deal in additional PG or non-PG placements by clicking ![Options menu](/help/dsp/assets/options-menu.png) **> [!UICONTROL Attach new placement]**.
 
->[!NOTE]
->
->It is possible to attach multiple placements supporting different types (CTV, Desktop, Audio etc.) to the same deal.  
-
+    A deal can target multiple placements that support any combination of media types (such as connected TV, desktop, and audio).
 
 >[!MORELIKETHIS]
 >
