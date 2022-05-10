@@ -87,6 +87,7 @@ For packages with custom flighting, the budget interval is always *[!UICONTROL A
 
 * *[!UICONTROL Slightly Ahead]:* (The default) Accelerates delivery so that it's 55-65% complete halfway through the flight duration.
 
+<!-- replaced with ASAP -->
 * *[!UICONTROL Frontload]:* Accelerates delivery so that it's 65-75% complete halfway through the flight.
 
 * *[!UICONTROL Aggressive Frontload]:* Accelerates delivery so that it's 75-85% complete halfway through the flight.
