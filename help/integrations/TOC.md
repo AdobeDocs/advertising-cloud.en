@@ -6,6 +6,7 @@ index: yes
 ---
 
 # Advertising Cloud Integrations with Adobe Experience Cloud {#integrations}
+
 <!--  ADD LATER: and Adobe Experience Platform -->
 
 + [What's New](/help/integrations/home.md)
