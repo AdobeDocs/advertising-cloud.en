@@ -6,6 +6,8 @@ exl-id: 624d2211-59a2-4791-b8f1-a9a5cecd0b8e
 ---
 # About Audience Management in Advertising Cloud DSP
 
+Advertising Cloud DSP is an integrated destination for the [!DNL Adobe Real-time Customer Data Profile](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/overview.html) (CDP), allowing you to share authenticated first-party segments with approved advertisers and users for campaign activation. To learn more about the Real-Time CDP integration, see the Sources section.<!-- This and the next paragraph don't flow together -- edit. -->
+
 In Advertising Cloud DSP, you can create and manage audience segments and audience sets, which you can use as targets for your placements:
 
 * You can collect your own first-party audience data by creating and implementing segments. You can later retarget users in the segment with ads or prevent users in the segment from receiving ads. You can create the following types of segments:
@@ -52,15 +54,27 @@ You can target your placements to all of the following types of audiences.
    
    Third-party segments incur additional fees, which are indicated next to each segment name.
 
-* (Advertisers with Adobe Experience Cloud, Adobe Audience Manager, or Adobe Analytics who use Advertising Cloud JavaScript conversion tags only) All of your available first-, second-, or third-party audience segments created in Adobe Experience Cloud, created in Audience Manager, or published to Adobe Experience Cloud from Audience Manager or [!DNL Analytics].
+* (Advertisers with Adobe Experience Platform and [!DNL Real-Time CDP], Adobe Audience Manager, or Adobe Analytics who use Advertising Cloud JavaScript conversion tags only) All of your available first-, second-, or third-party audience segments created in [!DNL Real-Time CDP], created in Audience Manager, or published to Adobe Experience Cloud from Audience Manager or [!DNL Analytics].
 
-   Pricing for the use of the segments is pre-negotiated and isn't visible in Advertising Cloud.  <!-- Verify -->
+   Pricing for the use of the segments is pre-negotiated and isn't visible in DSP.
    
-   Segments from Adobe Experience Cloud are available about an hour after you create or publish them in Adobe Experience Cloud. Segments coming directly from Audience Manager are available about 24 hours after you create them. <!-- Verify all -->
+   Segments from [!DNL Analytics] are available about an hour after you create or publish them as Experience Cloud audiences. Segments coming directly from Audience Manager or [!DNL Real-Time CDP] are available within 24 hours after you share them.
    
    >[!NOTE]
    >
-   >See the documentation for [Audience Manager](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html), [Analytics](https://experienceleague.adobe.com/docs/analytics.html), and [Adobe Experience Cloud](https://experienceleague.adobe.com/docs/core-services/interface/audiences/audience-library.html) for information about setting up and collecting data for segments in those solutions.
+   >See the documentation for [Audience Manager](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html), [Analytics](https://experienceleague.adobe.com/docs/analytics.html), and [!DNL Real-Time CDP](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/segmentation/segment-builder-guide.html) for information about setting up and collecting data for segments in those solutions.
+
+
+
+
+
+
+
+ 
+
+
+
+
 
 ## Audience Size Data
 
