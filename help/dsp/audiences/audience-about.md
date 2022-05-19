@@ -6,7 +6,7 @@ exl-id: 624d2211-59a2-4791-b8f1-a9a5cecd0b8e
 ---
 # About Audience Management in Advertising Cloud DSP
 
-Advertising Cloud DSP is an integrated destination for the [!DNL Adobe Real-time Customer Data Profile](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/overview.html) (CDP), allowing you to share authenticated first-party segments with approved advertisers and users for campaign activation. To learn more about the Real-Time CDP integration, see the Sources section.<!-- This and the next paragraph don't flow together -- edit. -->
+Advertising Cloud DSP is an integrated destination for the [!DNL Adobe Real-time Customer Data Profile (CDP)](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/overview.html), allowing you to share authenticated first-party segments with approved advertisers and users for campaign activation. To learn more about the Real-Time CDP integration, see the Sources section.<!-- This and the next paragraph don't flow together -- edit. -->
 
 In Advertising Cloud DSP, you can create and manage audience segments and audience sets, which you can use as targets for your placements:
 
@@ -63,18 +63,6 @@ You can target your placements to all of the following types of audiences.
    >[!NOTE]
    >
    >See the documentation for [Audience Manager](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html), [Analytics](https://experienceleague.adobe.com/docs/analytics.html), and [!DNL Real-Time CDP](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/segmentation/segment-builder-guide.html) for information about setting up and collecting data for segments in those solutions.
-
-
-
-
-
-
-
- 
-
-
-
-
 
 ## Audience Size Data
 
