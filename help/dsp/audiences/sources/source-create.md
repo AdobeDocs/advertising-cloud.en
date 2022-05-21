@@ -6,7 +6,7 @@ description:
 
 *Beta feature*
 
-Create a source to import audiences to your user account or an advertiser account.
+Create a source to import audiences to your DSP account or an advertiser account.
 
 
 For users looking to activate their Real-Time CDP audiences through the Advertising Cloud DSP destination within the Real-Time CDP dashboard, please refer to the Advertising Cloud DSP connections page. There you will find helpful tips on managing and activating the Advertising Cloud destination, selecting segments, as well as accessing control permissions. 
