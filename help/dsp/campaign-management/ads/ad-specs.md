@@ -52,11 +52,11 @@ You can use tag sheets from [!DNL DCM], [!DNL Flashtalking], [!DNL Innovid], and
 
 * **Paramount:** See Paramount's [ad specifications](https://www.paramount.com/digital-ads)
 
-* **Discovery:** See Discovery's [ad specifications](help/dsp/assets/Discovery Networks_Digital Media Ad Specifications.pdf)
+* **Discovery:** See Discovery's ![ad specifications](help/dsp/assets/Discovery Networks_Digital Media Ad Specifications.pdf)
 
-* **HBO Max:** See HBO Max's [ad specifications](help/dsp/assets/HBO Max_Ad_Specs_2022.xlsx)
+* **HBO Max:** See HBO Max's ![ad specifications](help/dsp/assets/HBO Max_Ad_Specs_2022.xlsx)
 
-* **A+E Netowrk:** See A+E Network's [ad specifications](help/dsp/assets/Microsoft PowerPoint - A+E Networks TVE Video Ad Specifications.pdf)
+* **A+E Netowrk:** See A+E Network's ![ad specifications](help/dsp/assets/Microsoft PowerPoint - A+E Networks TVE Video Ad Specifications.pdf)
 
 * **NBCUniversal:**
  
