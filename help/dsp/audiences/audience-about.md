@@ -26,7 +26,7 @@ Additional audience types are also available for placement targeting.
 
 DSP can import your own first-party data segments from your data management platform (DMP) and provide them to any set of advertisers, as needed.
 
-DSP is an integrated destination for the [!DNL Adobe Real-Time Customer Data Profile (CDP)](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/overview.html), allowing you to share authenticated first-party segments with approved advertisers and users for campaign activation. To learn more about the Real-Time CDP integration, see the [Sources section](/help/dsp/audiences/sources/source-about.md).
+DSP is an integrated destination for [the [!DNL Adobe Real-Time Customer Data Profile (CDP)]](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/overview.html), allowing you to share authenticated first-party segments with approved advertisers and users for campaign activation. To learn more about the Real-Time CDP integration, see the [Sources section](/help/dsp/audiences/sources/source-about.md).
 
 DSP can also import custom third-party segments, including complex combinations of third-party segments. You can provide the segments to any set of advertisers, as needed.
 
@@ -62,7 +62,7 @@ You can target your placements to all of the following types of audiences.
    
    >[!NOTE]
    >
-   >See the documentation for [Audience Manager](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html), [Analytics](https://experienceleague.adobe.com/docs/analytics.html), and [!DNL Real-Time CDP](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/segmentation/segment-builder-guide.html) for information about setting up and collecting data for segments in those solutions.
+   >See the documentation for [Audience Manager](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html), [Analytics](https://experienceleague.adobe.com/docs/analytics.html), and [the [!DNL Real-Time CDP]](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/segmentation/segment-builder-guide.html) for information about setting up and collecting data for segments in those solutions.
 
 ## Audience Size Data
 
