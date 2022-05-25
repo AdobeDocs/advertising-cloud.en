@@ -6,8 +6,6 @@ exl-id: 624d2211-59a2-4791-b8f1-a9a5cecd0b8e
 ---
 # About Audience Management in Advertising Cloud DSP
 
-Advertising Cloud DSP is an integrated destination for the [!DNL Adobe Real-time Customer Data Profile (CDP)](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/overview.html), allowing you to share authenticated first-party segments with approved advertisers and users for campaign activation. To learn more about the Real-Time CDP integration, see the Sources section.<!-- This and the next paragraph don't flow together -- edit. -->
-
 In Advertising Cloud DSP, you can create and manage audience segments and audience sets, which you can use as targets for your placements:
 
 * You can collect your own first-party audience data by creating and implementing segments. You can later retarget users in the segment with ads or prevent users in the segment from receiving ads. You can create the following types of segments:
@@ -26,9 +24,11 @@ Additional audience types are also available for placement targeting.
 
 ## Importing First-party and Third-party Data Segments
 
-Advertising Cloud DSP can import your own first-party data segments from your data management platform (DMP) and provide them to any set of advertisers, as needed.
+DSP can import your own first-party data segments from your data management platform (DMP) and provide them to any set of advertisers, as needed.
 
-Advertising Cloud DSP can also import custom third-party segments, including complex combinations of third-party segments. You can provide the segments to any set of advertisers, as needed.
+DSP is an integrated destination for the [!DNL Adobe Real-Time Customer Data Profile (CDP)](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/overview.html), allowing you to share authenticated first-party segments with approved advertisers and users for campaign activation. To learn more about the Real-Time CDP integration, see the [Sources section](sources/source-about.md).
+
+DSP can also import custom third-party segments, including complex combinations of third-party segments. You can provide the segments to any set of advertisers, as needed.
 
 Contact your [!DNL Adobe] account team for more information.
 
@@ -36,9 +36,9 @@ Contact your [!DNL Adobe] account team for more information.
 
 You can target your placements to all of the following types of audiences.
 
-* All user-created audience sets that were saved in Advertising Cloud DSP.
+* All user-created audience sets that were saved in DSP.
 
-* All user-created audience segments that were created in Advertising Cloud DSP:
+* All user-created audience segments that were created in DSP:
 
    * Custom segments for users who visited specific webpages and users exposed to impressions of specific ads.
    
@@ -48,7 +48,7 @@ You can target your placements to all of the following types of audiences.
 
 * All of your imported custom third-party data segments.
 
-* (Placements targeting the U.S. only) [All third-party data segments available to Advertising Cloud DSP customers from over 30 providers](/help/dsp/audiences/third-party-data-providers.md), including [!DNL Acxiom], [!DNL Datalogix], [!DNL eXelate] ([!DNL Nielsen]), [!DNL Lotame], [!DNL Oracle], [!DNL Quantcast], and many more.
+* (Placements targeting the U.S. only) [All third-party data segments available to DSP customers from over 30 providers](/help/dsp/audiences/third-party-data-providers.md), including [!DNL Acxiom], [!DNL Datalogix], [!DNL eXelate] ([!DNL Nielsen]), [!DNL Lotame], [!DNL Oracle], [!DNL Quantcast], and many more.
 
    You can target specific segments, which target users based on audience data (for example, users with specific demographics, interests or intents, and/or behavioral profiles). You can browse by data provider and category, search for segments by name or segment ID, or filter the results by data provider, total segment size, web browser count, or devices count.
    
