@@ -21,7 +21,7 @@ Create a source to import audiences to your DSP account or an advertiser account
 
 1. In the [!UICONTROL Select a Type] menu, select the source type.
 
-   *[!UICONTROL RT-CDP]*:  RT-CDP, for the [!DNL Adobe Real-Time Customer Data Profile](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/overview.html), is the only option.
+   *[!UICONTROL RT-CDP]*:  This source type, for [the [!DNL Adobe Real-Time Customer Data Profile]](source-about.md), is the only option.
 
 1. Specify the [!UICONTROL Data Visibility Level]: *[!UICONTROL Advertiser]* or *[!UICONTROL Account]*.
 
