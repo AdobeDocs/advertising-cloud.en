@@ -126,9 +126,10 @@ index: yes
     + [Audience Settings](/help/dsp/audiences/audience-settings.md)
     + [Syntax for Audience Segment Logic](/help/dsp/audiences/audience-segment-logic-syntax.md)
   + Manage Sources {#sources}
-    + [About Sources](/help/dsp/audiences/sources/source-about.md)
-    + [Create a Source](/help/dsp/audiences/sources/source-create.md)
-    + [Source Settings](/help/dsp/audiences/sources/source-settings.md)
+    + [About Activating Authenticated Segments from Audience Sources](/help/dsp/audiences/sources/source-about.md)
+    + [Activate Authenticated Segments from Durable ID partners](/help/dsp/audiences/sources/source-durable-id.md)
+    + [Create an Audience Source to Activate First-Party Audiences](/help/dsp/audiences/sources/source-create.md)
+    + [Audience Source Settings](/help/dsp/audiences/sources/source-settings.md)
   + [Available Third-party Data Providers](/help/dsp/audiences/third-party-data-providers.md)
 + Inventory {#inventory}
   + [Overview of Inventory Features](/help/dsp/inventory/inventory-overview.md)
