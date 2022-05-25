@@ -4,6 +4,7 @@ description:
 feature: DSP Audiences
 ---
 # Activate Authenticated Segments from Durable ID partners 
+
 <!-- TITLE? Does "Activate" belong here? -->
 
 *Beta feature*
@@ -22,7 +23,7 @@ To activate authenticated audiences through a durable ID solution within Adverti
     
     1. The account-level “[!UICONTROL LiveRamp segments]” option.
 
-1. (Users manually sharing authenticated segments from [!DNL LiveRamp) Complete the following steps in the [!DNL LiveRamp] [!DNL Connect] dashboard:
+1. (Users manually sharing authenticated segments from [!DNL LiveRamp]) Complete the following steps in the [!DNL LiveRamp] [!DNL Connect] dashboard:
 
     1. Activate the destination tile **[!DNL AAC API 1P Onboarding]**.
     
