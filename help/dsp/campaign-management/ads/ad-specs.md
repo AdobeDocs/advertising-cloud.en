@@ -50,18 +50,20 @@ You can use tag sheets from [!DNL DCM], [!DNL Flashtalking], [!DNL Innovid], and
 
 * **Hulu:** See Hulu's [ad specifications](https://advertising.hulu.com/ad-products/video-commercial/).
 
-* **Paramount:** See Paramount's [ad specifications](https://www.paramount.com/digital-ads)
+* **Paramount:** See Paramount's [ad specifications](https://www.paramount.com/digital-ads).
 
-* **Discovery:** See Discovery's ![ad specifications](help/dsp/assets/Discovery Networks_Digital Media Ad Specifications.pdf)
+* **Discovery:** See Discovery's ![ad specifications](/help/dsp/assets/discovery-networks-ad-specs.pdf).
 
-* **HBO Max:** See HBO Max's ![ad specifications](help/dsp/assets/HBO Max_Ad_Specs_2022.xlsx)
+* **HBO Max:** See HBO Max's ![ad specifications](/help/dsp/assets/hbo-max-ad-specs-2022.xlsx).
 
-* **A+E Netowrk:** See A+E Network's ![ad specifications](help/dsp/assets/Microsoft PowerPoint - A+E Networks TVE Video Ad Specifications.pdf)
+* **A+E Network:** See A+E Network's ![ad specifications](/help/dsp/assets/a-e-networks-tve-video-ad-specs.pdf)
 
 * **NBCUniversal:**
  
   * [Digital Video](https://together.nbcuni.com/nbcu-creative-guidelines/digital-video/)
-  * [Livestream](https://together.nbcuni.com/nbcu-creative-guidelines/livestream/) 
+
+  * [Livestream](https://together.nbcuni.com/nbcu-creative-guidelines/livestream/)
+  
   * [Peacock](https://together.nbcuni.com/nbcu-creative-guidelines/peacock/) 
 
 * **Disney:**
