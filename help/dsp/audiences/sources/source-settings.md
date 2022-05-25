@@ -1,6 +1,6 @@
 ---
-title: 
-description: 
+title: Audience Source Settings
+description: Learn about the settings for audience sources.
 feature: DSP Audiences
 ---
 # Audience Source Settings
@@ -13,9 +13,12 @@ feature: DSP Audiences
 
 **[!UICONTROL Enter IMS Org Id]:** The Experience Cloud organization ID for the [!DNL Adobe Experience Platform] account.
 
-**[!UICONTROL AAC Source Key]:** (Read-only; generated when a value is entered in the [!UICONTROL Enter IMS Org Id] field) The source key you can use to [create a destination connection in [!DNL Adobe Real-time Customer Data Profile]]((https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/advertising/adobe-advertising-cloud-dsp-destination.html)) to push audiences to Advertising Cloud DSP. You can copy the value to your clipboard to paste into the [!DNL Adobe Real-time CDP] destination connection settings or into a file.
+**[!UICONTROL AAC Source Key]:** (Read-only; generated when a value is entered in the [!UICONTROL Enter IMS Org Id] field) The source key you can use to [create a destination connection in [!DNL Adobe Real-Time Customer Data Profile]]((https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/advertising/adobe-advertising-cloud-dsp-destination.html)) to push audiences to Advertising Cloud DSP. You can copy the value to your clipboard to paste into the [!DNL Adobe Real-Time CDP] destination connection settings or into a file.
 
 >[!MORELIKETHIS]
 >
->*[About Activating Authenticated Segments from Audience Sources](source-about.md)
 >* [Create an Audience Source to Activate First-Party Audiences](source-create.md)
+>* [About Activating Authenticated Segments from Audience Sources](source-about.md)
+>* [Activate Authenticated Segments from Durable ID Partners](source-durable-id.md)<!-- title?-->
+>* [Adobe Advertising Cloud DSP Connection](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/advertising/adobe-advertising-cloud-connection.html)<!-- Verify URL once it's published. -->
+>* [About Audience Management](audience-about.md)
