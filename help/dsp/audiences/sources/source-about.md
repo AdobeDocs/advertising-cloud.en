@@ -24,9 +24,9 @@ For more information about destinations, see the Experience Platform [Destinatio
 
 1. [Allow DSP to translate customer data segments into [!DNL LiveRamp RampIDs]](source-durable-id.md) that are recognizable in a biddable environment.<!-- I don't think I need this here: This requires DSP account-level and campaign-level settings to enable segment sharing with [!DNL LiveRamp], which will translate customer data to [!DNL RampIDs] to create targetable segments. Your DSP account team will perform this configuration. -->
 
-2. [Create an audience source](source-create.md) to import audiences to your DSP account or an advertiser account.
+1. [Create an audience source](source-create.md) to import audiences to your DSP account or an advertiser account.
 
-3. [Configure a [!DNL Real-time CDP] destination connection in Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/advertising/adobe-advertising-cloud-connection.html).<!-- Verify URL once it's published. -->
+1. [Configure a [!DNL Real-Time CDP] destination connection in Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/advertising/adobe-advertising-cloud-connection.html).<!-- Verify URL once it's published. -->
 
 For additional support, contact your [!DNL Adobe] account team or `adcloud-support@adobe.com`.
 
