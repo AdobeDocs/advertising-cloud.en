@@ -53,4 +53,4 @@ To learn more about the DSP integration with [!DNL LiveRamp], contact `adcloud-s
 >* [Create an Audience Source to Activate First-Party Audiences](source-create.md)
 >* [Audience Source Settings](source-settings.md)
 >* [Adobe Advertising Cloud DSP Connection](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/advertising/adobe-advertising-cloud-connection.html)
->* [About Audience Management](audience-about.md)
+>* [About Audience Management](/help/dsp/audiences/audience-about.md)
