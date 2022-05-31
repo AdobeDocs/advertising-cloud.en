@@ -1,11 +1,9 @@
 ---
 title: Activate Authenticated Segments from Durable ID partners 
-description: 
+description: Learn about activating authenticated audiences through a durable ID solution.
 feature: DSP Audiences
 ---
 # Activate Authenticated Segments from Durable ID partners 
-
-<!-- TITLE? Does "Activate" belong here? -->
 
 *Beta feature*
 
@@ -54,5 +52,5 @@ To learn more about the DSP integration with [!DNL LiveRamp], contact `adcloud-s
 >*[About Activating Authenticated Segments from Audience Sources](source-about.md)
 >* [Create an Audience Source to Activate First-Party Audiences](source-create.md)
 >* [Audience Source Settings](source-settings.md)
->* [Adobe Advertising Cloud DSP Connection](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/advertising/adobe-advertising-cloud-connection.html)<!-- Verify URL once it's published. -->
+>* [Adobe Advertising Cloud DSP Connection](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/advertising/adobe-advertising-cloud-connection.html)
 >* [About Audience Management](audience-about.md)
