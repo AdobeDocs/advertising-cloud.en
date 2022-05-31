@@ -21,4 +21,4 @@ feature: DSP Audiences
 >* [About Activating Authenticated Segments from Audience Sources](source-about.md)
 >* [Activate Authenticated Segments from Durable ID Partners](source-durable-id.md)<!-- title?-->
 >* [Adobe Advertising Cloud DSP Connection](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/advertising/adobe-advertising-cloud-connection.html)
->* [About Audience Management](audience-about.md)
+>* [About Audience Management](/help/dsp/audiences/audience-about.md)
