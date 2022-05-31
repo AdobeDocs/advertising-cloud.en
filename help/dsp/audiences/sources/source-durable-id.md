@@ -49,7 +49,7 @@ To learn more about the DSP integration with [!DNL LiveRamp], contact `adcloud-s
 
 >[!MORELIKETHIS]
 >
->*[About Activating Authenticated Segments from Audience Sources](source-about.md)
+>* [About Activating Authenticated Segments from Audience Sources](source-about.md)
 >* [Create an Audience Source to Activate First-Party Audiences](source-create.md)
 >* [Audience Source Settings](source-settings.md)
 >* [Adobe Advertising Cloud DSP Connection](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/advertising/adobe-advertising-cloud-connection.html)
