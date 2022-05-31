@@ -24,9 +24,11 @@ Additional audience types are also available for placement targeting.
 
 ## Importing First-party and Third-party Data Segments
 
-Advertising Cloud DSP can import your own first-party data segments from your data management platform (DMP) and provide them to any set of advertisers, as needed.
+DSP can import your own first-party data segments from your data management platform (DMP) and provide them to any set of advertisers, as needed.
 
-Advertising Cloud DSP can also import custom third-party segments, including complex combinations of third-party segments. You can provide the segments to any set of advertisers, as needed.
+DSP is an integrated destination for [the [!DNL Adobe Real-Time Customer Data Profile (CDP)]](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/overview.html), allowing you to share authenticated first-party segments with approved advertisers and users for campaign activation. To learn more about the Real-Time CDP integration, see the [Sources section](/help/dsp/audiences/sources/source-about.md).
+
+DSP can also import custom third-party segments, including complex combinations of third-party segments. You can provide the segments to any set of advertisers, as needed.
 
 Contact your [!DNL Adobe] account team for more information.
 
@@ -34,9 +36,9 @@ Contact your [!DNL Adobe] account team for more information.
 
 You can target your placements to all of the following types of audiences.
 
-* All user-created audience sets that were saved in Advertising Cloud DSP.
+* All user-created audience sets that were saved in DSP.
 
-* All user-created audience segments that were created in Advertising Cloud DSP:
+* All user-created audience segments that were created in DSP:
 
    * Custom segments for users who visited specific webpages and users exposed to impressions of specific ads.
    
@@ -46,21 +48,21 @@ You can target your placements to all of the following types of audiences.
 
 * All of your imported custom third-party data segments.
 
-* (Placements targeting the U.S. only) [All third-party data segments available to Advertising Cloud DSP customers from over 30 providers](/help/dsp/audiences/third-party-data-providers.md), including [!DNL Acxiom], [!DNL Datalogix], [!DNL eXelate] ([!DNL Nielsen]), [!DNL Lotame], [!DNL Oracle], [!DNL Quantcast], and many more.
+* (Placements targeting the U.S. only) [All third-party data segments available to DSP customers from over 30 providers](/help/dsp/audiences/third-party-data-providers.md), including [!DNL Acxiom], [!DNL Datalogix], [!DNL eXelate] ([!DNL Nielsen]), [!DNL Lotame], [!DNL Oracle], [!DNL Quantcast], and many more.
 
    You can target specific segments, which target users based on audience data (for example, users with specific demographics, interests or intents, and/or behavioral profiles). You can browse by data provider and category, search for segments by name or segment ID, or filter the results by data provider, total segment size, web browser count, or devices count.
    
    Third-party segments incur additional fees, which are indicated next to each segment name.
 
-* (Advertisers with Adobe Experience Cloud, Adobe Audience Manager, or Adobe Analytics who use Advertising Cloud JavaScript conversion tags only) All of your available first-, second-, or third-party audience segments created in Adobe Experience Cloud, created in Audience Manager, or published to Adobe Experience Cloud from Audience Manager or [!DNL Analytics].
+* (Advertisers with Adobe Experience Platform and [!DNL Real-Time CDP], Adobe Audience Manager, or Adobe Analytics who use Advertising Cloud JavaScript conversion tags only) All of your available first-, second-, or third-party audience segments created in [!DNL Real-Time CDP], created in Audience Manager, or published to Adobe Experience Cloud from Audience Manager or [!DNL Analytics].
 
-   Pricing for the use of the segments is pre-negotiated and isn't visible in Advertising Cloud.  <!-- Verify -->
+   Pricing for the use of the segments is pre-negotiated and isn't visible in DSP.
    
-   Segments from Adobe Experience Cloud are available about an hour after you create or publish them in Adobe Experience Cloud. Segments coming directly from Audience Manager are available about 24 hours after you create them. <!-- Verify all -->
+   Segments from [!DNL Analytics] are available about an hour after you create or publish them as Experience Cloud audiences. Segments coming directly from Audience Manager or [!DNL Real-Time CDP] are available within 24 hours after you share them.
    
    >[!NOTE]
    >
-   >See the documentation for [Audience Manager](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html), [Analytics](https://experienceleague.adobe.com/docs/analytics.html), and [Adobe Experience Cloud](https://experienceleague.adobe.com/docs/core-services/interface/audiences/audience-library.html) for information about setting up and collecting data for segments in those solutions.
+   >See the documentation for [Audience Manager](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html), [Analytics](https://experienceleague.adobe.com/docs/analytics.html), and [the [!DNL Real-Time CDP]](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/segmentation/segment-builder-guide.html) for information about setting up and collecting data for segments in those solutions.
 
 ## Audience Size Data
 
