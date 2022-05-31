@@ -1,6 +1,6 @@
 ---
 title: About Activating Authenticated Segments from Audience Sources
-description: 
+description: Learn about ingesting first-party segments from a customer data platform.
 feature: DSP Audiences
 ---
 # About Activating Authenticated Segments from Audience Sources
@@ -8,7 +8,7 @@ feature: DSP Audiences
 <!-- Doesn't specifically explain what you can do in our UI -->
 *Beta feature*
 
-Advertising Cloud DSP can ingest first-party segments comprised of authenticated signals built within a customer data platform (CDP). You can then use the ingested segments as targets for your placements.
+Advertising Cloud DSP can ingest first-party segments comprised of authenticated signals built within a customer data platform (CDP). You can use the ingested segments as targets for your placements.
 
 ## [!DNL Adobe Real-Time Customer Data Profile]
 
@@ -35,6 +35,6 @@ For additional support, contact your [!DNL Adobe] account team or `adcloud-suppo
 >* [Activate Authenticated Segments from Durable ID Partners](source-durable-id.md)<!-- title?-->
 >* [Create an Audience Source to Activate First-Party Audiences](source-create.md)
 >* [Audience Source Settings](source-settings.md)
->* [Adobe Advertising Cloud DSP Connection](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/advertising/adobe-advertising-cloud-connection.html)<!-- Verify URL once it's published. -->
+>* [Adobe Advertising Cloud DSP Connection](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/advertising/adobe-advertising-cloud-connection.html)
 >* Adobe Experience Platform [Destinations catalog overview](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/overview.html)
 >* [About Audience Management](audience-about.md)
