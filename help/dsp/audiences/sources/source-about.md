@@ -2,6 +2,7 @@
 title: About Activating Authenticated Segments from Audience Sources
 description: Learn about ingesting first-party segments from a customer data platform.
 feature: DSP Audiences
+exl-id: 3e6ede23-2b27-4b1d-bfa2-e823824633c4
 ---
 # About Activating Authenticated Segments from Audience Sources
 

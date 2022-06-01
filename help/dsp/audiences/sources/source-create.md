@@ -2,6 +2,7 @@
 title: Create an Audience Source to Activate First-Party Audiences
 description: Learn how to create a source to import audiences to your account or an advertiser account.
 feature: DSP Audiences
+exl-id: 16eb7cdb-4364-4e94-ba73-0f2d4d200cb9
 ---
 # Create an Audience Source to Activate First-Party Audiences
 

@@ -1,7 +1,8 @@
 ---
-title: Activate Authenticated Segments from Durable ID partners 
+title: Activate Authenticated Segments from Durable ID partners
 description: Learn about activating authenticated audiences through a durable ID solution.
 feature: DSP Audiences
+exl-id: 44635b74-1874-4781-bd1a-a4dadae049e0
 ---
 # Activate Authenticated Segments from Durable ID partners 
 
