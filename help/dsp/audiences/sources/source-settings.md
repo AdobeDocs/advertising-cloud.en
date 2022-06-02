@@ -14,7 +14,7 @@ exl-id: 8b17d5cc-488b-4bd2-bada-ef51b35faf92
 
 **[!UICONTROL Enter IMS Org Id]:** The Experience Cloud organization ID for the [!DNL Adobe Experience Platform] account.
 
-**[!UICONTROL AAC Source Key]:** (Read-only; generated when a value is entered in the [!UICONTROL Enter IMS Org Id] field) The source key you can use to [create a destination connection in [!DNL Adobe Real-Time Customer Data Profile]](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/advertising/adobe-advertising-cloud-dsp-destination.html) to push audiences to Advertising Cloud DSP. You can copy the value to your clipboard to paste into the [!DNL Adobe Real-Time CDP] destination connection settings or into a file.
+**[!UICONTROL AAC Source Key]:** (Read-only; generated when a value is entered in the [!UICONTROL Enter IMS Org Id] field) The source key you can use to [create a destination connection in [!DNL Adobe Real-Time Customer Data Profile]](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/advertising/adobe-advertising-cloud-connection.html) to push audiences to Advertising Cloud DSP. You can copy the value to your clipboard to paste into the [!DNL Adobe Real-Time CDP] destination connection settings or into a file.
 
 >[!MORELIKETHIS]
 >
