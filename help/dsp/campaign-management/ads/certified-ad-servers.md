@@ -35,9 +35,7 @@ exl-id: 084b4c04-a876-4770-9efc-57268c333aa6
 | [!DNL Innovid] | X | X | | X | |
 | [!DNL InSkin] | | | X | | High impact skins must be served out of a 180x150 display deal ID across the Inskin inventory network. |
 | [!DNL Jivox] | | X | | | |
-| [!DNL Kargo] | | X | | | 320x50 Anchor, BYOC, Hover, Breakout, and Sidekick; 300x250 Outstream
-Standard Desktop Display ads certified (specific ad plugin IDs are NOT required).
-</br></br>Contact your [!DNL Adobe] account team for assistance in setting up ad units. |
+| [!DNL Kargo] | | X | | | 320x50 Anchor, BYOC, Hover, Breakout, and Sidekick; 300x250 Outstream; Standard Desktop Display ads certified (specific ad plugin IDs aren't required).</br></br>Contact your [!DNL Adobe] account team for assistance in setting up ad units. |
 | [!DNL Linkstorm] | | | X | | |
 | [!DNL mCanvas] | | | X | | |
 | [!DNL Medialets] | | X | | | |
@@ -46,15 +44,14 @@ Standard Desktop Display ads certified (specific ad plugin IDs are NOT required)
 | [!DNL Pubmatic] | | | | X | VAST Only |
 | [!DNL RevJet] | | | | X | VAST Only |
 | [!DNL Seedtag] | | X | | | |
-| [!DNL Sizmek] | | X | | | Sizmek is certified for OLV and CTV. Audio is not certified.
-To make the tags render in the UI, wrap the tag with `<a>` tags (at the beginning and the end). See sample tag below:</br></br>```<a><script src="https://bs.serving-sys.com/Serving/adServer.bs?c=28&cn=display&pli=1074570064&w=900&h=550&ord=[timestamp]&ifrm=-1&z=0"></script> <noscript> <a href="https://bs.serving-sys.com/Serving/adServer.bs?cn=brd&pli=1074570064&Page=&Pos=-602368150" target="_blank"> <img src="https://bs.serving-sys.com/Serving/adServer.bs?c=8&cn=display&pli=1074570064&Page=&Pos=-602368150" border=0 width=900 height=550></a> </noscript><a>``` |
+| [!DNL Sizmek] | | X | | | Certified for OLV and CTV.</br></br>To make the tags render in the UI, wrap the tag with `<a>` tags (at the beginning and the end). See sample tag below:</br></br>```<a><script src="https://bs.serving-sys.com/Serving/adServer.bs?c=28&cn=display&pli=1074570064&w=900&h=550&ord=[timestamp]&ifrm=-1&z=0"></script> <noscript> <a href="https://bs.serving-sys.com/Serving/adServer.bs?cn=brd&pli=1074570064&Page=&Pos=-602368150" target="_blank"> <img src="https://bs.serving-sys.com/Serving/adServer.bs?c=8&cn=display&pli=1074570064&Page=&Pos=-602368150" border=0 width=900 height=550></a> </noscript><a>``` |
 | [!DNL Spaceback] | | X | | | |
 | [!DNL Spirable] | | X | | | |
 | [!DNL SUBLIME] | | | X | | |
 | [!DNL SundaySky] | | | | X | |
-| [!DNL Teads] | | X | | | | Teads certified for Display. Adobe doesn't support VPAID on Outstream inventory.
+| [!DNL Teads] | | X | | | | Advertising Cloud DSP doesn't support VPAID on Outstream inventory.
 | [!DNL Trueffect] | | X | | | |
-| [!DNL Undertone] | | | X | | Custom Page Grabber ad unit uploaded as 180x150 in Advertising Cloud DSP</br></br>When Index Exchange passes a 180x150 auction and DSP bids on the auction and serves an impression, the creative expands to a full-page display ad.</br></br>Initially certified for Page Grabber, Expandable Adhesion, and Screen Shift ad units. This needs to be recertified, with steps marked for processes. |
+| [!DNL Undertone] | | | X | | Custom Page Grabber ad unit uploaded as 180x150 in DSP</br></br>When Index Exchange passes a 180x150 auction and DSP bids on the auction and serves an impression, the creative expands to a full-page display ad.</br></br>Initially certified for Page Grabber, Expandable Adhesion, and Screen Shift ad units. This needs to be recertified, with steps marked for processes. |
 | [!DNL Vox] | | | X | | [!DNL Athena] ad units |
 | [!DNL Wunderkind] | | X | | | |
 
