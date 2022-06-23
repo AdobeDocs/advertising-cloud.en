@@ -10,7 +10,7 @@ The deal-level report includes the number of auctions, the bid rate, the win rat
 
 1. In the main menu, click **[!UICONTROL Inventory] > [!UICONTROL Deals]**.
 
-1. In the deal row, click ![Options menu](/help/dsp/assets/options-menu.png) **> [!UICONTROL see report]**.
+1. In the deal row, click **[!UICONTROL ...] > [!UICONTROL View Report]**.
 
 1. (Optional) Customize the date range for which you want to view the data.
  
