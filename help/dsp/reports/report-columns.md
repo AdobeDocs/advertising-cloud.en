@@ -80,7 +80,7 @@ exl-id: c96e46ae-2fb2-4364-9c51-f160c00693ba
 |[!UICONTROL Metric]|[!UICONTROL Frequency]|[!UICONTROL Estimated Uniques (Device/Browser)]|(Included in the [!UICONTROL Frequency (by Impression)] report) The number of unique browsers or devices recorded for a given frequency. Advertising Cloud estimates are based on a sample of impressions. For some inventory, don't pass along a device identifier, and those impressions aren't included in this value. There is a similar metric in the [!UICONTROL Frequency (by App/Site)] report, but that metric isn't estimated.|
 |[!UICONTROL Metric]|[!UICONTROL Frequency]|[!UICONTROL Estimated Universe]|The sum of unique households that DSP (auctions) has seen within the date range.|
 |[!UICONTROL Metric]|[!UICONTROL Frequency]|[!UICONTROL Extended Impressions]|The total number of impressions served as a result of using a device graph for people-based, cross-device targeting.|
-|[!UICONTROL Metric]||[!UICONTROL Performance]|[!UICONTROL Gross CPA]|The average gross cost per acquisition, calculated by [!UICONTROL Gross Spend] / [!UICONTROL Custom Goal].|
+|[!UICONTROL Metric]|[!UICONTROL Performance]|[!UICONTROL Gross CPA]|The average gross cost per acquisition, calculated by [!UICONTROL Gross Spend] / [!UICONTROL Custom Goal].|
 |[!UICONTROL Metric]|[!UICONTROL Performance]|[!UICONTROL Gross CPC]|The average gross cost per ad click, calculated by [!UICONTROL Gross Spend] / [!UICONTROL Total Ad Clicks].|
 |[!UICONTROL Metric]|[!UICONTROL Performance]|[!UICONTROL Gross CPCV]|The average cost per completed video view, calculated by [!UICONTROL Gross Spend] / [!UICONTROL 100% Completions].|
 |[!UICONTROL Metric]|[!UICONTROL Performance]|[!UICONTROL Gross CPM]|The average cost per 1000 impressions, calculated by [!UICONTROL Gross Spend] / [!UICONTROL Impressions] x 1000.|
@@ -94,7 +94,7 @@ exl-id: c96e46ae-2fb2-4364-9c51-f160c00693ba
 |[!UICONTROL Metric]|[!UICONTROL Performance]|[!UICONTROL Total Media CPM]|The average net media cost per 1000 impressions, calculated by [!UICONTROL Net Spend (Media)] / [!UICONTROL Impressions] x 1000.|
 |[!UICONTROL Metric]|[!UICONTROL Performance]|[!UICONTROL Total Other eCPM]|The average net cost per 1000 impressions for other fees, calculated by [!UICONTROL Net Spend (Other)] / [!UICONTROL Impressions] x 1000.|
 |[!UICONTROL Metric]|[!UICONTROL Performance]|[!UICONTROL % bid at Max CPM]|The percentage of total bids that were bid at the Max CPM. |
-|[!UICONTROL Metric]|[!UICONTROL Performance]|[!UICONTROL Unique Users Bid On]| The number of distinct users that the placement was able to bid on. |
+|[!UICONTROL Metric]|[!UICONTROL Performance]|[!UICONTROL Unique Users Bid On]| The number of distinct users for which the placement was bid. |
 |[!UICONTROL Metric]|[!UICONTROL Spend]|[!UICONTROL Billable Data Net Spend]|The total net cost of audience segment data fees billed through Advertising Cloud.|
 |[!UICONTROL Metric]|[!UICONTROL Spend]|[!UICONTROL Billable Media Net Spend]|The total net cost of billable media, including the tech fee, billed through Advertising Cloud.|
 |[!UICONTROL Metric]|[!UICONTROL Spend]|[!UICONTROL Billable Other Net Spend]|The total cost of other service fees (third-party verification partners, ad serving, and so on) billed through Advertising Cloud|
