@@ -18,9 +18,10 @@ You can unarchive a deal to restore its previous status at any time.
 ## Archive a Private Deal
 
 1. In the main menu, click **[!UICONTROL Inventory] > [!UICONTROL Deals]**.
-1. In the deal row, click ![Options menu](/help/dsp/assets/options-menu.png) **> [!UICONTROL archive]**.
-1. In the confirmation message, click **[!UICONTROL OK]**.
+1. In the deal row, click **[!UICONTROL ...] > [!UICONTROL Archive]**.
+1. In the confirmation message, click **[!UICONTROL Archive]**.
 
+<!-- Not clear on how to do any of this in new UI
 >[!NOTE]
 >
 >To view archived deals, click the **[!UICONTROL Status]** menu and select **[!UICONTROL Inactive].**
@@ -37,6 +38,7 @@ If the publisher or SSP had previously deactivated the deal and you want to use 
 >[!NOTE]
 >
 >To view unarchived (active) deals, click the **[!UICONTROL Status]** menu and select **[!UICONTROL Active].**
+ -->
 
 >[!MORELIKETHIS]
 >
