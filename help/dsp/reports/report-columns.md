@@ -94,7 +94,7 @@ exl-id: c96e46ae-2fb2-4364-9c51-f160c00693ba
 |[!UICONTROL Metric]|[!UICONTROL Performance]|[!UICONTROL Total Media CPM]|The average net media cost per 1000 impressions, calculated by [!UICONTROL Net Spend (Media)] / [!UICONTROL Impressions] x 1000.|
 |[!UICONTROL Metric]|[!UICONTROL Performance]|[!UICONTROL Total Other eCPM]|The average net cost per 1000 impressions for other fees, calculated by [!UICONTROL Net Spend (Other)] / [!UICONTROL Impressions] x 1000.|
 |[!UICONTROL Metric]|[!UICONTROL Performance]|[!UICONTROL % bid at Max CPM]|The percentage of total bids that were bid at the Max CPM. |
-|[!UICONTROL Metric]|[!UICONTROL Performance]|[!UICONTROL Unique Users Bid On]| The number of distinct users for which the placement was bid. |
+|[!UICONTROL Metric]|[!UICONTROL Performance]|[!UICONTROL Unique Users Bid On]| The number of distinct users for which DSP bid for the placement. |
 |[!UICONTROL Metric]|[!UICONTROL Spend]|[!UICONTROL Billable Data Net Spend]|The total net cost of audience segment data fees billed through Advertising Cloud.|
 |[!UICONTROL Metric]|[!UICONTROL Spend]|[!UICONTROL Billable Media Net Spend]|The total net cost of billable media, including the tech fee, billed through Advertising Cloud.|
 |[!UICONTROL Metric]|[!UICONTROL Spend]|[!UICONTROL Billable Other Net Spend]|The total cost of other service fees (third-party verification partners, ad serving, and so on) billed through Advertising Cloud|
