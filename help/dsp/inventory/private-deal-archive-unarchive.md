@@ -29,7 +29,7 @@ You can unarchive a deal to restore its previous status at any time.
 
 1. In the main menu, click **[!UICONTROL Inventory] > [!UICONTROL Deals]**.
 1. Above the deal list, click ![Filter](/help/dsp/assets/filter.png); click **[!UICONTROL Status]** and select *[!UICONTROL Archived]*; and then click **[!UICONTROL Apply]**.<!-- Verify the text to apply the filter(s).)-->
-1. In the deal row, click **[!UICONTROL ...] > [!UICONTROL Unachive]**.
+1. In the deal row, click **[!UICONTROL ...] > [!UICONTROL Unarchive]**.
 1. In the confirmation message, click **[!UICONTROL Unarchive]**.
 
 If the publisher or SSP had previously deactivated the deal and you want to use it again, contact the publisher or SSP directly.
