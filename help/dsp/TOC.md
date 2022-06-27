@@ -174,13 +174,13 @@ index: yes
     + [List the Placements and Ads for a Private Deal](/help/dsp/inventory/private-deal-view-placements.md)
     + [View a Detailed Report for a Private Deal](/help/dsp/inventory/private-deal-view-report.md)
     + [Archive or Unarchive a Private Deal](/help/dsp/inventory/private-deal-archive-unarchive.md)
-    + [!UICONTROL Simple Ad Serving] Deals {#sas}
-      + [About [!UICONTROL Simple Ad Serving]](/help/dsp/inventory/simple-deal-about.md)
-      + [Create a [!UICONTROL Simple Ad Serving] Deal](/help/dsp/inventory/simple-deal-create.md)
-      + [Edit [!UICONTROL Simple Ad Serving] Deal Settings](/help/dsp/inventory/simple-deal-edit.md)
-      + [[!UICONTROL Simple Ad Serving] Deal Settings](/help/dsp/inventory/simple-deal-settings.md)
-      + [View Event-Tracking Pixels for a [!UICONTROL Simple Ad Serving] Deal](/help/dsp/inventory/simple-deal-show-pixels.md)
-      + [View a Detailed Report for a [!UICONTROL Simple Ad Serving] Deal](/help/dsp/inventory/simple-deal-view-report.md)
+  + [!UICONTROL Simple Ad Serving] Deals {#sas}
+    + [About [!UICONTROL Simple Ad Serving]](/help/dsp/inventory/simple-deal-about.md)
+    + [Create a [!UICONTROL Simple Ad Serving] Deal](/help/dsp/inventory/simple-deal-create.md)
+    + [Edit [!UICONTROL Simple Ad Serving] Deal Settings](/help/dsp/inventory/simple-deal-edit.md)
+    + [[!UICONTROL Simple Ad Serving] Deal Settings](/help/dsp/inventory/simple-deal-settings.md)
+    + [View Event-Tracking Pixels for a [!UICONTROL Simple Ad Serving] Deal](/help/dsp/inventory/simple-deal-show-pixels.md)
+    + [View a Detailed Report for a [!UICONTROL Simple Ad Serving] Deal](/help/dsp/inventory/simple-deal-view-report.md)
 + Custom Reports {#custom-reports}
   + [About Custom Reports](/help/dsp/reports/report-about.md)
   + [Create a Custom Report](/help/dsp/reports/report-create.md)
