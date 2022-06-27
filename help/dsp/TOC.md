@@ -12,6 +12,10 @@ index: yes
 
 # Advertising Cloud DSP Guide {#dsp}
 
+<!-- add back to about below "Edit the Advertisers with Access to a Deal ID" when reintroduced:
+      + [Edit the Attribute Tags for a Deal ID](/help/dsp/inventory/deal-id-edit-attribute-tags.md)
+-->
+
 + [What's New](/help/dsp/home.md)
 + Introduction {#introduction}
   + [Introduction to Adobe Advertising Cloud DSP](/help/dsp/introduction/dsp-about.md)
@@ -167,7 +171,6 @@ index: yes
       + [Specify Placements and Ads for a Deal ID](/help/dsp/inventory/deal-id-attach-placements.md)
       + [Edit the Accounts with Access to a Deal ID](/help/dsp/inventory/deal-id-share.md)
       + [Edit the Advertisers with Access to a Deal ID](/help/dsp/inventory/deal-id-edit-advertisers.md)
-      + [Edit the Attribute Tags for a Deal ID](/help/dsp/inventory/deal-id-edit-attribute-tags.md)
     + [!UICONTROL Simple Ad Serving] Deals {#sas}
       + [About [!UICONTROL Simple Ad Serving]](/help/dsp/inventory/simple-deal-about.md)
       + [Create a [!UICONTROL Simple Ad Serving] Deal](/help/dsp/inventory/simple-deal-create.md)
