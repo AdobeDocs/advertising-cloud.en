@@ -6,7 +6,7 @@ exl-id: 6ecf90b6-a52f-42f3-aa3f-b2c489ea0aa8
 ---
 # Archive or Unarchive a Private Deal
 
-Hide a private deal that isn't being used by archiving it. The only action you can take on an archived deal is to unarchive it. Archived deal aren't shown by default but are still available for reporting.
+Hide a private deal that isn't being used by archiving it. The only action that you can take on an archived deal is to unarchive it. Archived deals aren't shown by default but are still available for reporting.
 
 You can unarchive a deal to restore its previous status at any time.
 
