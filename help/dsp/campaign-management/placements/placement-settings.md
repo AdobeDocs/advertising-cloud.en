@@ -430,7 +430,7 @@ Which level of [Ads.txt](https://iabtechlab.com/ads-txt-about/) pre-bid filterin
             The advertiser's IT department or other group may need to schedule, or be informed about, the tag deployment.
    1. Click **[!UICONTROL Save]**.
 
-**[!UICONTROL 3rd-party Fees]:** (Optional) A static, third-party fee rate to be tracked as a non-billable cost per thousand impressions. The package-level default is automatically applied for new placements, when applicable, unless you enter a different value.
+**[!UICONTROL 3rd-party Fees]:** (Optional) A static, third-party fee rate to be tracked as a non-billable cost per 1000 impressions. The package-level default is automatically applied for new placements, when applicable, unless you enter a different value.
 
 >[!NOTE]
 >

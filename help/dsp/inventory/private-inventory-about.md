@@ -14,7 +14,7 @@ Advertisers looking beyond RTB can use private inventory to facilitate exclusive
 
 ### Deal IDs
 
-If you have direct relationships with publishers, you can streamline your media buying process and workflow by using your own private deals, with their negotiated inventory and pricing, in your Advertising Cloud DSP placements. DSP will integrate with all of your publishers when you set up an account. If you want access to additional publishers later, contact your [!DNL Adobe] account team to set up access. <!-- + sentence from Ramey? (no longer here) about how we certify the publishers -->
+If you have direct relationships with publishers, you can streamline your media buying process and workflow by using your own private deals, with their negotiated inventory and pricing, in your Advertising Cloud DSP placements. DSP integrates with all of your publishers when you set up an account. If you want access to additional publishers later, contact your [!DNL Adobe] account team to set up access. <!-- + sentence from Ramey? (no longer here) about how we certify the publishers -->
 
 All of your private deals with a deal ID are financed and invoiced by [!DNL Adobe].
 
@@ -32,7 +32,7 @@ You can use each private deal as a placement target for multiple campaigns acros
 
 [!UICONTROL Simple Ad Serving] provides non-decisioned, guaranteed ad delivery and reporting for media served outside of Advertising Cloud DSP.
 
-Each ad is served directly by the publisher, and DSP provides an event-tracking pixel to send to the publisher, who needs to implement the pixel and traffic the ads.
+Each ad is served directly by the publisher, and DSP provides an event-tracking pixel to send to the publisher, who must implement the pixel and traffic the ads.
 
 For more information, see "[About [!UICONTROL Simple Ad Serving]](simple-deal-about.md)."
 

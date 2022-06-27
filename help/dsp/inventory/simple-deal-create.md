@@ -23,7 +23,7 @@ exl-id: d8de85ec-616c-44ed-9a1a-cc25713ad4a4
           * For new ads, create a proxy [third-party ad](/help/dsp/campaign-management/ads/ad-create-multiple.md).
 
        >[!NOTE]
-       > DSP won't actually serve the ads you specify. The publisher will serve the ad.
+       > DSP doesn't serve the ads you specify. The publisher serves the ad.
 
        1. Click **[!UICONTROL Next]**.
 
@@ -43,7 +43,7 @@ exl-id: d8de85ec-616c-44ed-9a1a-cc25713ad4a4
 
          * To copy the information to your clipboard, click **[!UICONTROL Copy Email].** You can then manually paste the contents into an email message and send it to the appropriate contact for the publisher. You must include a copy (CC:) to `publisher-support-global@adobe.com`. When you're finished copying the message, click **[!UICONTROL Email & Done]**.
     
-      1. (If necessary) Follow up with the publisher to see if the tag includes the appropriate macros so that the tag will work with the publisher's ad server.
+      1. (If necessary) Follow up with the publisher to see if the tag includes the appropriate macros so that the tag works with the publisher's ad server.
 
    * (Optional) Manually send the event-tracking pixels to the publisher:
    

@@ -8,7 +8,7 @@ exl-id: 5ddd406d-1ee5-4d13-8e12-be575cbb7551
 
 You can share a deal ID with multiple accounts. The deal is shared with all advertisers within the specified accounts, so that all users in those accounts can edit the deal or use it as a target for their placements.
 
-You can stop sharing a deal with accounts to remove editing and targeting capabilities, but the feed will remain visible to those accounts in reporting views.
+You can stop sharing a deal with accounts to remove editing and targeting capabilities, but the feed remains visible to those accounts in reporting views.
 
 >[!NOTE]
 >
@@ -22,7 +22,7 @@ You can stop sharing a deal with accounts to remove editing and targeting capabi
 
 1. For each account to share:
 
-  1. Enter the **[!UICONTROL Email Address]** for the account that will have access to the deal.
+  1. Enter the **[!UICONTROL Email Address]** for the account with access to the deal.
   
   1. Click **[!UICONTROL Share]**.
 

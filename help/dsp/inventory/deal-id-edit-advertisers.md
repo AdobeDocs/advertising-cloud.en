@@ -8,7 +8,7 @@ exl-id: 6efbc5dc-90d8-46a5-88fe-218990c6336d
 
 >[!NOTE]
 >
->You also can [share and stop sharing a deal ID with all advertisers within specified accounts](deal-id-share.md).
+>You can also [share and stop sharing a deal ID with all advertisers within specified accounts](deal-id-share.md).
 
 1. In the main menu, click **[!UICONTROL Inventory] > [!UICONTROL Deals].**
 

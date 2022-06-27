@@ -12,15 +12,15 @@ exl-id: cd9763a7-99d4-4881-9df9-b4e24c55be0f
 
 1. Enter the [deal settings](deal-id-settings.md):
 
-    1. In the [!UICONTROL Deal ID basics] section, specify the deal details and the advertisers who can access the deal. For guaranteed deals, you must also specify the planned flight dates and the estimated of impressions, for tracking purposes only.
+    1. In the [!UICONTROL Deal ID basics] section, specify the deal details and the advertisers who can access the deal. For guaranteed deals, you must also specify the planned flight dates and the estimated number of impressions, for tracking purposes only.
 
     1. (Administrator users only; optional) In the [!UICONTROL Technical] section, edit the default settings as needed.
 
     1. Click **[!UICONTROL Save]**.
 
-1. (Guaranteed deals only) Select the ads that will be used for the deal and create a default programmatic guaranteed (PG) placement.
+1. (Guaranteed deals only) Select the ads that to use for the deal and create a default programmatic guaranteed (PG) placement.
 
-   Default PG placements ensure that your deal will always return a bid for every bid request. If you don't create a default PG placement, then any placements that target the deal won't place bids unless they're set up correctly. You should always create a default PG placement. In the [!UICONTROL Placements] view, default PG placements have a [!UICONTROL Sub-type] column value of "[!UICONTROL PG Default]."
+   Default PG placements ensure that your deal always returns a bid for each bid request. If you don't create a default PG placement, then any placements that target the deal don't place bids unless they're set up correctly. You should always create a default PG placement. In the [!UICONTROL Placements] view, default PG placements have a [!UICONTROL Sub-type] column value of "[!UICONTROL PG Default]."
    
    You can optionally use the deal as an inventory target in additional placements but must set them up correctly to place bids.
 
@@ -28,7 +28,7 @@ exl-id: cd9763a7-99d4-4881-9df9-b4e24c55be0f
 
        1. Select the advertiser, campaign, and ad type. Optionally select an ad status by which to filter the ads.
         
-       1. From the list of available ads, select the check box next to each ad that will be used for the deal.
+       1. From the list of available ads, select the check box next to each ad to use for the deal.
 
        1. Click **[!UICONTROL Apply]**.
 

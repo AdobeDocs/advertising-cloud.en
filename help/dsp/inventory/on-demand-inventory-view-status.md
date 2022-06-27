@@ -9,7 +9,7 @@ exl-id: 8dd6d922-c4a3-4ddb-bca9-f6f782da1320
 After you request an individual deal or subscribe to all of a publisher's deals, see if the publisher has approved or rejected each deal for each advertiser in your account.
 
 1. In the main menu, click **[!UICONTROL Inventory] > [!UICONTROL On Demand]**.
-1. Filter the available deals to include deals you've requested or subscribed to (**[!UICONTROL Currently subscribed to]**)**.
+1. Filter the available deals to include deals that you've requested or subscribed to (**[!UICONTROL Currently subscribed to]**)**.
 1. Do either of the following:
    * To view the deals in the [!UICONTROL Deal] view, click **[!UICONTROL Deal view]**.
    * To view the deals in the [!UICONTROL Subscription] view:

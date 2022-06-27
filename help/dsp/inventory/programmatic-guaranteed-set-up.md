@@ -18,7 +18,7 @@ After you negotiate a programmatic guaranteed (PG) deal with a supported publish
 
 ## Set up a Programmatic Guaranteed Deal Using the [!DNL Deal ID Inbox] {#pg-setup-deal-id-inbox}
 
-This is the preferred method for [!DNL FreeWheel], [!DNL Google Authorized Buyers], and [!DNL Magnite DV+].
+The following method is the preferred procedure for [!DNL FreeWheel], [!DNL Google Authorized Buyers], and [!DNL Magnite DV+].
 
 1. [Accept the deal](deal-id-inbox-accept.md).
 
