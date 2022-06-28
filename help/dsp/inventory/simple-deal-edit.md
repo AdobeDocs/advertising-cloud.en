@@ -22,5 +22,8 @@ You can edit some settings for a [!UICONTROL Simple Ad Serving] deal that hasn't
 >* [About [!UICONTROL Simple Ad Serving]](simple-deal-about.md)
 >* [Create a [!UICONTROL Simple Ad Serving] Deal](simple-deal-create.md)
 >* [[!UICONTROL Simple Ad Serving] Settings](simple-deal-settings.md)
->* [View Event-Tracking Pixels for a [!UICONTROL Simple Ad Serving] Deal](simple-deal-show-pixels.md)
 >* [View a Detailed Report for a Deal](/help/dsp/inventory/deal-view-report.md)
+
+<!-- add back when reimplemented:
+>* [View Event-Tracking Pixels for a [!UICONTROL Simple Ad Serving] Deal](simple-deal-show-pixels.md)
+-->
