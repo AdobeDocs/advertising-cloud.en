@@ -77,5 +77,8 @@ But I see:
 >* [About [!UICONTROL Simple Ad Serving]](simple-deal-about.md)
 >* [Create a [!UICONTROL Simple Ad Serving] Deal](simple-deal-create.md)
 >* [Edit [!UICONTROL Simple Ad Serving] Deal Settings](simple-deal-edit.md)
->* [View Event-Tracking Pixels for a [!UICONTROL Simple Ad Serving] Deal](simple-deal-show-pixels.md)
 >* [View a Detailed Report for a Deal](/help/dsp/inventory/deal-view-report.md)
+
+<!-- add back when reimplemented:
+>* [View Event-Tracking Pixels for a [!UICONTROL Simple Ad Serving] Deal](simple-deal-show-pixels.md)
+-->
