@@ -1,10 +1,10 @@
 ---
-title: Edit the Accounts with Access to a Deal ID
-description: Learn how to share and stop sharing a deal ID with different accounts.
+title: Edit the Accounts with Access to a Private Deal
+description: Learn how to share and stop sharing a private deal with different accounts.
 feature: DSP Private Inventory, DSP Deal IDs
 exl-id: 5ddd406d-1ee5-4d13-8e12-be575cbb7551
 ---
-# Edit the Accounts with Access to a Deal ID
+# Edit the Accounts with Access to a Private Deal
 
 You can share a deal ID with multiple accounts. The deal is shared with all advertisers within the specified accounts, so that all users in those accounts can edit the deal or use it as a target for their placements.
 

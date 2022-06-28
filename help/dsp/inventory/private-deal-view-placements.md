@@ -28,4 +28,4 @@ You can open a list of all placements and ads associated with a private deal. Yo
 >
 >* [About Private Inventory](private-inventory-about.md)
 >* [Specify Placements and Ads for a Deal ID](deal-id-attach-placements.md)
->* [View a Detailed Report for a Private Deal](private-deal-view-report.md)
+>* [View a Detailed Report for a Deal](deal-view-report.md)

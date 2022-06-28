@@ -58,4 +58,4 @@ exl-id: d8de85ec-616c-44ed-9a1a-cc25713ad4a4
 >* [About [!UICONTROL Simple Ad Serving]](simple-deal-about.md)
 >* [[!UICONTROL Simple Ad Serving] Settings](simple-deal-settings.md)
 >* [View Event-Tracking Pixels for a [!UICONTROL Simple Ad Serving] Deal](simple-deal-show-pixels.md)
->* [View a Detailed Report for a [!UICONTROL Simple Ad Serving] Deal](/help/dsp/inventory/simple-deal-view-report.md)
+>* [View a Detailed Report for a Deal](/help/dsp/inventory/deal-view-report.md)

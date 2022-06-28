@@ -28,4 +28,4 @@ You can create a [!UICONTROL Simple Ad Serving] deal in the [!UICONTROL Inventor
 >* [Edit [!UICONTROL Simple Ad Serving] Deal Settings](simple-deal-edit.md)
 >* [[!UICONTROL Simple Ad Serving] Settings](simple-deal-settings.md)
 >* [View Event-Tracking Pixels for a [!UICONTROL Simple Ad Serving] Deal](simple-deal-show-pixels.md)
->* [View a Detailed Report for a [!UICONTROL Simple Ad Serving] Deal](/help/dsp/inventory/simple-deal-view-report.md)
+>* [View a Detailed Report for a Deal](/help/dsp/inventory/deal-view-report.md)
