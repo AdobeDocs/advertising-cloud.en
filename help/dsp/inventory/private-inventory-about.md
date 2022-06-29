@@ -30,6 +30,8 @@ You can use each private deal as a placement target for multiple campaigns acros
 
 In the [!UICONTROL Inventory] > [!UICONTROL Deals] view, you can create private deal settings. You can also edit some deal settings; list the placements and ads, and attach additional placements and ads, to a deal; edit the advertisers and accounts who can access a deal; view a report for a private deal; or archive or unarchive a deal.<!-- ; or edit the attribute tags for a deal -->
 
+You can further customize how the existing deal data is presented by applying filters, customizing the visible columns and optionally saving custom views, sorting the columns, and viewing the data as charts.
+
 >[!MORELIKETHIS]
 >
 >* [Overview of Inventory Features](/help/dsp/inventory/inventory-overview.md)
