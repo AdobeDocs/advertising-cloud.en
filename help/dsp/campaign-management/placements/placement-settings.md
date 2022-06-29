@@ -387,7 +387,7 @@ Which level of [Ads.txt](https://iabtechlab.com/ads-txt-about/) pre-bid filterin
 
 **[!UICONTROL DoubleVerify Authentic Brand Safety]:** (Advertisers configured with the [!UICONTROL DoubleVerify Authentic Brand Safety] option) Enables [!DNL DoubleVerify Authentic Brand Safety], which blocks impressions post-bid using the custom brand safety rules configured for the specified segment ID. DSP bills your account for usage for the segment ID specified in the advertiser settings.
 
-## [!UICONTROL Tracking]{#placement-tracking}
+## [!UICONTROL Tracking] {#placement-tracking}
 
 >[!NOTE]
 >
