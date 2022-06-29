@@ -2,6 +2,7 @@
 title: Edit [!UICONTROL Simple Ad Serving] Deal Settings
 description: Learn how to edit the settings for a [!UICONTROL Simple Ad Serving] deal.
 feature: DSP Simple Ad Serving
+exl-id: 025b299b-05ba-4e4e-ac92-8a738303bc32
 ---
 # Edit [!UICONTROL Simple Ad Serving] Deal Settings
 

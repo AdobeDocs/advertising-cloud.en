@@ -2,6 +2,7 @@
 title: View a Detailed Report for a private, [!UICONTROL On Demand], or [!UICONTROL Simple Ad Serving] Deal
 description: Learn how to open a deal-level report.
 feature: DSP Private Inventory, DSP Deal IDs, DSP Programmatic Guaranteed Deals, DSP On Demand Inventory, DSP Simple Ad Serving
+exl-id: cd39582e-0445-48ca-b2f6-90b410ce4a1c
 ---
 # View a Detailed Report for a Deal
 
