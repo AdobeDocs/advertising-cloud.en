@@ -13,6 +13,7 @@ The following features are new or recently changed.
 | Date | Feature | Description | For More Information |
 | ---- | ------- | ----------- | -------------------- |
 | 31 May 2022 | Audience Sources | (Beta feature) Advertising Cloud DSP can now ingest first-party segments comprised of authenticated signals built within a customer data platform (CDP). | See "[About Activating Authenticated Segments from Audience Sources](/help/dsp/audiences/sources/source-about.md)." |
+| 25 May 2022 | Optimization Goals | Video and native placements can now be included in packages with the custom goals Highest ROAS and Lowest CPA. | See "[Optimization Goals and How to Use Them](/help/dsp/optimization/optimization-goals.md)." |
 | 12 April 2022 | Campaign Management | Ad specifications were updated to reflect current support. | See "[Specifications for Supported Ad Types](/help/dsp/campaign-management/ads/ad-specs.md)." |
 | 17 February 2022 | Video tutorials | A new video on "How to Create a Standard Display Placement" is available. | See [Advertising Cloud Tutorials](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/dsp/placement-create.html). |
 | 31 January 2022 | Help | Additional information about [!DNL Deal IDs] and [!DNL Simple Ad Serving] is now available. | See the subchapter on Inventory > Private Inventory. |
