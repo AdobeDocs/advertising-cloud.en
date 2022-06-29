@@ -46,7 +46,7 @@ You can collect your own first-party audience data by creating and implementing 
 
             1. Copy the impression tracking tag, which is labeled "[!UICONTROL Desktop or mobile ads]."
 
-            1. Add the tag to the [!UICONTROL Pixel] tab for any ad. <!-- I'll add cross-reference to ad settings later. -->
+            1. Add the tag to either the [!UICONTROL Pixel] tab for each relevant ad or to the [!UICONTROL Event Pixels] section of the [[!UICONTROL Tracking] settings for each relevant placement](/help/dsp/campaign-management/placements/placement-settings.html#tracking) . <!-- I'll add cross-reference to ad settings later. -->
 
 Once a tracking tag is implemented, you can use the segment in the audience targets or exclusions for any placement.
 
