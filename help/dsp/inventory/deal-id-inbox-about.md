@@ -39,11 +39,11 @@ During deal negotiations, tell the publisher to send the deal to your buyer inst
 
 ## Actions You Can Take on Your Deals
 
-* **Review deals** to verify that the SSP has sent the correct publisher, flight dates, CPM, and other deal details. If the publisher has made a mistake, contact them outside of DSP so they can correct and re-send the deal.
+* **Review deals** to verify that the SSP has sent the correct publisher, flight dates, CPM, and other deal details. If the publisher has made a mistake, contact them outside of DSP so they can correct and resend the deal.
 
 * **Accept deals** after reviewing, and they will no longer appear in the [!UICONTROL Deal ID inbox]. Accepted deals are listed in [!UICONTROL Inventory] > [!UICONTROL Deals] and are ready to target within advertisers’ placements.
 
-* **Ignore deals** that aren't needed or are unsolicited. Ignored deals are moved to the [!UICONTROL Ignored Deals] tab within the [!UICONTROL Deal ID inbox], which serves as an archive. DSP doesn't alert SSPs and publishers when you ignore a deals.
+* **Ignore deals** that aren't needed or are unsolicited. Ignored deals are moved to the [!UICONTROL Ignored Deals] tab within the [!UICONTROL Deal ID inbox], which serves as an archive. DSP doesn't alert SSPs and publishers when you ignore a deal.
 
 * **Modify details for already-accepted deals** from [!UICONTROL Inventory] > [!UICONTROL Deals] (not in the [!UICONTROL Deal ID inbox]). Similarly, when publishers send changes to deals, advertisers are responsible for implementing those changes in [!UICONTROL Inventory] > [!UICONTROL Deals] because the [!UICONTROL Deal ID inbox] doesn't sync changes from the SSPs after deals are set up.
 
@@ -63,7 +63,7 @@ You can't accept the following types of deals:
 
 * Old [!DNL Magnite DV+] deals that were labeled as "multiple media types."
 
-The deal details include the reason the deal isn't available to accept.
+The deal details include the reason that the deal isn't available to accept.
 
 >[!MORELIKETHIS]
 >

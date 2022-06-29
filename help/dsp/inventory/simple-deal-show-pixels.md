@@ -20,4 +20,6 @@ The event pixels include a [!UICONTROL Clickthrough] pixel and an [!UICONTROL Im
 >
 >* [About [!UICONTROL Simple Ad Serving]](simple-deal-about.md)
 >* [Create a [!UICONTROL Simple Ad Serving] Deal](simple-deal-create.md)
+>* [Edit [!UICONTROL Simple Ad Serving] Deal Settings](simple-deal-edit.md)
 >* [[!UICONTROL Simple Ad Serving] Settings](simple-deal-settings.md)
+>* [View a Detailed Report for a Deal](/help/dsp/inventory/deal-view-report.md)

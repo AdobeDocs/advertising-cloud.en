@@ -6,13 +6,13 @@ exl-id: b3d0b96e-e638-4bd2-ba14-d348a8fc030b
 ---
 # Overview of Inventory Features in Advertising Cloud DSP
 
-Advertising Cloud DSP can support your inventory needs, whether you’re wanting to find scale with public inventory, find scale among premium publishers with [!DNL On Demand], or set up a 1:1 private marketplace (PMP) deal with a publisher to activate against specific audiences or sites. Your campaign goals will help dictate which type of inventory best suits your campaign’s performance needs. Integrations with top supply side platforms (SSPs) allow seamless setup and activation of your PMPs.
+Advertising Cloud DSP can support your inventory needs, whether you’re wanting to find scale with public inventory, find scale among premium publishers with [!DNL On Demand], or set up a 1:1 private marketplace (PMP) deal with a publisher to activate against specific audiences or sites. Your campaign goals help dictate which type of inventory best suits your campaign’s performance needs. Integrations with top supply side platforms (SSPs) allow seamless setup and activation of your PMPs.
 
 Once you access or identify your inventory deals in DSP, you can use them as placement targets for your campaigns.
 
 Available inventory types include:
 
-* **[!DNL On Demand] Inventory:** Explore pre-negotiated, non-guaranteed deals that Adobe has curated with our premium publisher partners.
+* **[!DNL On Demand] Inventory:** Explore pre-negotiated, non-guaranteed deals that Adobe has curated with premium publisher partners.
 
 * **Private Inventory [!DNL Deal IDs]:** Set up and manage private marketplace deals (PMPs) that you've negotiated directly 1:1 with the publisher. 
 

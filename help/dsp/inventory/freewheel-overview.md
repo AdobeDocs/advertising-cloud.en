@@ -22,7 +22,7 @@ Setting up programmatic guaranteed deals with publishers on [!DNL Freewheel] req
 
    For some UK publishers, you must include a [!DNL Clearcast] clock number with your ad.
 
-1. [Accept the deal ID](#programmatic-guaranteed-set-up.md#pg-setup-deal-id-inbox) you've already negotiated with a publisher on [!DNL Freewheel] using the Deal ID Inbox.
+1. [Accept the deal ID](#programmatic-guaranteed-set-up.md#pg-setup-deal-id-inbox) that you've already negotiated with a publisher on [!DNL Freewheel] using the Deal ID Inbox.
 
    After you accept the deal, follow the prompts to 1) select the ad to use for the deal and 2) create a programmatic guaranteed default placement to serve the ad.
 

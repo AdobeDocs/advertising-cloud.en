@@ -10,14 +10,22 @@ You can open a list of all placements and ads associated with a private deal. Yo
 
 1. In the main menu, click **[!UICONTROL Inventory] > [!UICONTROL Deals].**
 
-1. In the deal row, click  ![Options menu](/help/dsp/assets/options-menu.png) **> [!UICONTROL placements and ads]**.
+1. In the deal row, click  **[!UICONTROL ...] > [!UICONTROL Placements and Ads]**.
 
-1. Click ![Expand/Compress](/help/dsp/assets/play.png) next to a placement name to expand or compress the ad list for the placement.
+   The [!UICONTROL Placements] tab is shown by default. To view the ads, click the [!UICONTROL Ads] tab.
 
-1. (Optional) To open the settings for a placement or ad, click the placement name or ad name.
+1. (Optional) Do any of the following:
+
+   * To edit the settings for a placement, hold the cursor over the placement row and click **[!UICONTROL Edit]**. [Edit the placement settings](/help/dsp/campaign-management/placements/placement-settings.md), and then click **[!UICONTROL Update placement]**.
+
+   * To remove the deal from a placement's inventory targets, hold the cursor over the placement row and click **[!UICONTROL More] > [!UICONTROL Detach Placement]**. In the confirmation message, click **[!UICONTROL Yes]**.
+
+     Detaching the placement doesn't delete the placement.
+     
+   * To edit the settings for an ad, hold the cursor over the ad row and click **[!UICONTROL More] > [!UICONTROL Edit]**. [Edit the ad settings](/help/dsp/campaign-management/ads/ad-edit.md), and then click **[!UICONTROL Save & submit for review]**.
 
 >[!MORELIKETHIS]
 >
 >* [About Private Inventory](private-inventory-about.md)
 >* [Specify Placements and Ads for a Deal ID](deal-id-attach-placements.md)
->* [View a Detailed Report for a Private Deal](private-deal-view-report.md)
+>* [View a Detailed Report for a Deal](deal-view-report.md)

@@ -33,7 +33,7 @@ Use the [!UICONTROL Deal ID inbox] to quickly accept a private deal you've alrea
     * In the [!UICONTROL Deal ID inbox], hold the cursor over the deal row and click ![Accept](/help/dsp/assets/accept.png).
 
 1. In the deal details:
-    1. Complete the required information: **[!UICONTROL Publisher]**, **[!UICONTROL Media Type]**, and **[!UICONTROL Deal Access]** (the advertisers who will have access to the deal).
+    1. Complete the required information: **[!UICONTROL Publisher]**, **[!UICONTROL Media Type]**, and **[!UICONTROL Deal Access]** (the advertisers with access to the deal).
     1. (Optional) Specify additional accounts with which to share the deal or attach labels to the deal record.
 
     1. Click **[!UICONTROL Save]**.

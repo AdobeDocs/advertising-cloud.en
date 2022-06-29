@@ -12,7 +12,7 @@ You can re-request [!DNL On Demand] inventory deals for which you were denied, i
 
 If a deal isn't approved after you re-request it, contact your [!DNL Adobe] account team to see if the publisher has additional restrictions that prohibit your account from accessing the deal.
 
-Once a deal is [approved](/help/dsp/inventory/on-demand-inventory-view-status.md), it's included by default as a target for new placements that target all [!DNL On Demand] inventory. The new deal is also available as a target for existing placements, but you need to manually edit the placement settings to add the deal as a target.
+Once a deal is [approved](/help/dsp/inventory/on-demand-inventory-view-status.md), it's included by default as a target for new placements that target all [!DNL On Demand] inventory. The new deal is also available as a target for existing placements, but you must manually edit the placement settings to add the deal as a target.
 
 1. Confirm with your [!DNL Adobe] account team that the [!UICONTROL Account Type] for your organization's DSP account is correct.
 
@@ -30,9 +30,9 @@ Once a deal is [approved](/help/dsp/inventory/on-demand-inventory-view-status.md
 
     1. In the main menu, click **[!UICONTROL Inventory] > [!UICONTROL On Demand]**.
 
-    1. Filter the available deals to include deals you've requested (**[!UICONTROL Currently subscribed to]**)**.
+    1. Filter the available deals to include deals that you've requested (**[!UICONTROL Currently subscribed to]**)**.
 
-    1. (Optional) Switch between the [!UICONTROL Subscriptio] view, which shows the logos of all publishers based on your filters, and the [!UICONTROL Deal] view, which lists all deals for each publisher based on your filters, by clicking **[!UICONTROL Subscription view]** and **[!UICONTROL Deal view]**, as needed.
+    1. (Optional) Switch between the [!UICONTROL Subscription] view, which shows the logos of all publishers based on your filters, and the [!UICONTROL Deal] view, which lists all deals for each publisher based on your filters, by clicking **[!UICONTROL Subscription view]** and **[!UICONTROL Deal view]**, as needed.
 
     1. Re-request the individual deals:
 

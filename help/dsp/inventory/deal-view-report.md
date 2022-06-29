@@ -1,10 +1,9 @@
 ---
-title: View a Detailed Report for a Private Deal
+title: View a Detailed Report for a private, [!UICONTROL On Demand], or [!UICONTROL Simple Ad Serving] Deal
 description: Learn how to open a deal-level report.
-feature: DSP Private Inventory, DSP Deal IDs, DSP Programmatic Guaranteed Deals
-exl-id: 80ed239f-16c9-4aba-b1d2-2471133c676b
+feature: DSP Private Inventory, DSP Deal IDs, DSP Programmatic Guaranteed Deals, DSP On Demand Inventory, DSP Simple Ad Serving
 ---
-# View a Detailed Report for a Private Deal
+# View a Detailed Report for a Deal
 
 The deal-level report includes the number of auctions, the bid rate, the win rate, the number of impressions, the total net spend, the effective CMP (eCPM), and the completion rate. You can view additional performance metrics by advertiser, campaign, placement, ad type, and site.
 
@@ -16,5 +15,6 @@ The deal-level report includes the number of auctions, the bid rate, the win rat
  
 >[!MORELIKETHIS]
 >
+>* [About [!DNL On Demand] Premium Inventory](on-demand-inventory-about.md)
 >* [About Private Inventory](private-inventory-about.md)
->* [List the Placements and Ads for a Private Deal](private-deal-view-placements.md)
+>* [About [!UICONTROL Simple Ad Serving]](simple-deal-about.md)

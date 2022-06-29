@@ -18,7 +18,7 @@ exl-id: 1a8f215c-c52b-4099-a55f-99c4232b7a22
 | **[!UICONTROL Media Quality Assessment?]** | (Some users) Enables the ad to run on another DSP for third-party verification. <!-- Who can select this? It's disabled for me. Need to see if there are additional fields when this is enabled. --> |
 | **[!UICONTROL Ad Source]** | The only option is *[!UICONTROL Site Serve (Event Pixels)]*. |
 | **[!UICONTROL Ad Creation]** | (New deals only) Whether to:<ul><li>*[!UICONTROL Create New]:* To create an ad for this deal.</li><li>*[!UICONTROL Select Ads]:* To use an existing ad for this deal.</li></ul> |
-| **[!UICONTROL Ad Type]** | The ad type for this deal. If you're going to create new ads for the deal, include the ad size or duration, as requested. The available options vary by media type. |
+| **[!UICONTROL Ad Type]** | The ad type for this deal. If you're going to create ads for the deal, include the ad size or duration, as requested. The available options vary by media type. |
 
 {style="table-layout:auto"}
 
@@ -34,12 +34,12 @@ exl-id: 1a8f215c-c52b-4099-a55f-99c4232b7a22
 
 | Parameter | Description |
 |-----------|-------------|
-| **[!UICONTROL Media CPM]** | The cost per thousand impressions (CPM), as reflected in the rate card for your contract. Contact your [!DNL Adobe] account team for this value. <br><br>Specify also the currency for the deal. All users can select USD, or, if the SSP supports additional currencies, the currency for the DSP account. |
+| **[!UICONTROL Media CPM]** | The cost per 1000 impressions (CPM), as reflected in the rate card for your contract. Contact your [!DNL Adobe] account team for this value. <br><br>Specify also the currency for the deal. All users can select USD, or, if the SSP supports additional currencies, the currency for the DSP account. |
 | **[!UICONTROL Third Party Billed Fees]** | (Optional) A static third-party fee to be tracked as a non-billable cost,  and the currency for the deal.<br><br>All users can select USD, or, if the SSP supports additional currencies, the currency for the DSP account. **NOTE:** Billable fees are reflected in the [!UICONTROL Net CPM] metric.|
 | **[!UICONTROL Third Party Fee Description]** | (Optional) A description of the third-party fees. |
-| **[!UICONTROL Flight Dates]** | The start and end dates for traffic using this deal. The flight dates must be included within the campaign flight dates. The ad tags will return a response only during the specified flight.<br><br> The best practice to create a separate simple ad serving campaign with a year-long duration and to build tracking pixels within it. |
+| **[!UICONTROL Flight Dates]** | The start and end dates for traffic using this deal. The flight dates must be included within the campaign flight dates. The ad tags return a response only during the specified flight.<br><br> The best practice to create a separate simple ad serving campaign with a year-long duration and to build tracking pixels within it. |
 | **[!UICONTROL Impressions]** | (Optional) The estimated number of impressions you expect to run using this deal. This value is used for tracking purposes only and to flag when delivery goals are met; the publisher controls actual ad delivery. The best practice is to enter a high number of impressions to keep the tag active within DSP so it can be renewed or extended if needed. |
-| **[!UICONTROL Deal Name]** | The deal name. Enter a name, or select *[!UICONTROL Auto Generate Deal Name]* to let DSP generate a name based on the deal details.<br><br>Example of an auto generated name: `Campaign-desktop_video_preroll_15-24Kitchen-$10_USD-jdoe-SAS` |
+| **[!UICONTROL Deal Name]** | The deal name. Enter a name, or select *[!UICONTROL Auto Generate Deal Name]* to let DSP generate a name based on the deal details.<br><br>Example of an auto-generated name: `Campaign-desktop_video_preroll_15-24Kitchen-$10_USD-jdoe-SAS` |
 | **[!UICONTROL Attached Ads]** | (Read-only) The ads that are part of the deal. To edit an ad, click the ad name. To remove an ad from the deal, click **[!UICONTROL X]** next to the ad name. |
 
 {style="table-layout:auto"}
@@ -76,4 +76,9 @@ But I see:
 >
 >* [About [!UICONTROL Simple Ad Serving]](simple-deal-about.md)
 >* [Create a [!UICONTROL Simple Ad Serving] Deal](simple-deal-create.md)
+>* [Edit [!UICONTROL Simple Ad Serving] Deal Settings](simple-deal-edit.md)
+>* [View a Detailed Report for a Deal](/help/dsp/inventory/deal-view-report.md)
+
+<!-- add back when reimplemented:
 >* [View Event-Tracking Pixels for a [!UICONTROL Simple Ad Serving] Deal](simple-deal-show-pixels.md)
+-->

@@ -6,7 +6,7 @@ exl-id: 6ecf90b6-a52f-42f3-aa3f-b2c489ea0aa8
 ---
 # Archive or Unarchive a Private Deal
 
-Hide a private deal that isn't being used by archiving it. The only action you can take on an archived deal is to unarchive it. Archived deal aren't shown by default but are still available for reporting.
+Hide a private deal that isn't being used by archiving it. The only action that you can take on an archived deal is to unarchive it. Archived deals aren't shown by default but are still available for reporting.
 
 You can unarchive a deal to restore its previous status at any time.
 
@@ -18,25 +18,25 @@ You can unarchive a deal to restore its previous status at any time.
 ## Archive a Private Deal
 
 1. In the main menu, click **[!UICONTROL Inventory] > [!UICONTROL Deals]**.
-1. In the deal row, click ![Options menu](/help/dsp/assets/options-menu.png) **> [!UICONTROL archive]**.
-1. In the confirmation message, click **[!UICONTROL OK]**.
+1. In the deal row, click **[!UICONTROL ...] > [!UICONTROL Archive]**.
+1. In the confirmation message, click **[!UICONTROL Archive]**.
 
 >[!NOTE]
 >
->To view archived deals, click the **[!UICONTROL Status]** menu and select **[!UICONTROL Inactive].**
+>To view archived deals, click ![Filter](/help/dsp/assets/filter.png) above the deal list; click **[!UICONTROL Status]** and select *[!UICONTROL Archived]*; and then click **[!UICONTROL Apply]**.<!-- Verify the text to apply the filter(s).)-->
 
 ## Unarchive a Private Deal
 
-1. In the main menu, click **[!UICONTROL Deals]**.
-1. In the toolbar, click the **[!UICONTROL Status]** menu and select **[!UICONTROL Inactive].**
-1. In the deal row, click  ![Options menu](/help/dsp/assets/options-menu.png) **> [!UICONTROL unarchive]**.
-1. In the confirmation message, click **[!UICONTROL OK]**.
+1. In the main menu, click **[!UICONTROL Inventory] > [!UICONTROL Deals]**.
+1. Above the deal list, click ![Filter](/help/dsp/assets/filter.png); click **[!UICONTROL Status]** and select *[!UICONTROL Archived]*; and then click **[!UICONTROL Apply]**.<!-- Verify the text to apply the filter(s).)-->
+1. In the deal row, click **[!UICONTROL ...] > [!UICONTROL Unarchive]**.
+1. In the confirmation message, click **[!UICONTROL Unarchive]**.
 
 If the publisher or SSP had previously deactivated the deal and you want to use it again, contact the publisher or SSP directly.
 
 >[!NOTE]
 >
->To view unarchived (active) deals, click the **[!UICONTROL Status]** menu and select **[!UICONTROL Active].**
+>To view unarchived (live) deals, click ![Filter](/help/dsp/assets/filter.png) above the deal list; click **[!UICONTROL Status]** and select *[!UICONTROL Live]*; and then click **[!UICONTROL Apply]**.<!-- Verify the text to apply the filter(s).)-->
 
 >[!MORELIKETHIS]
 >

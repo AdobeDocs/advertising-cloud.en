@@ -10,7 +10,7 @@ exl-id: e66e5bad-526e-4b71-8072-332dd173f105
 
 You can request individual deals or subscribe to a publisher to request all of the publisher's deals. When you subscribe to a publisher, DSP automatically requests any new deals that the publisher offers, on your behalf.
 
-Once a deal is [approved](/help/dsp/inventory/on-demand-inventory-view-status.md), it's included by default as a target for new placements that target all [!DNL On Demand] inventory. The new deal is also available as a target for existing placements, but you need to manually edit the placement settings to add the deal as a target.
+Once a deal is [approved](/help/dsp/inventory/on-demand-inventory-view-status.md), it's included by default as a target for new placements that target all [!DNL On Demand] inventory. The new deal is also available as a target for existing placements, but you must manually edit the placement settings to add the deal as a target.
 
 ## Subscribe to All of a Publisher's Deals
 
