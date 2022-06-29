@@ -18,6 +18,12 @@ Available inventory types include:
 
 * **[!DNL Simple Ad Serving]:** Use streamlined technology for guaranteed, non-decisioned ad delivery and reporting when your publisher can't execute your deal via deal IDs.
 
+## The Deals View
+
+You can view all of your existing deals in the [!UICONTROL Inventory] > [!UICONTROL Deals] view. You can further customize how the existing deal data is presented by applying filters, customizing the visible columns and optionally saving custom views, sorting the columns, and viewing the data as charts.
+
+You can also create and manage private deal settings and [!DNL Simple Ad Serving] deals from the [!UICONTROL Deals] view. To view and manage [!DNL On Demand] inventory, go to [!UICONTROL Inventory] > [!UICONTROL On Demand].
+
 >[!MORELIKETHIS]
 >
 >* [About On Demand Inventory](on-demand-inventory-about.md)
