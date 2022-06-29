@@ -177,10 +177,6 @@ index: yes
     + [Edit the Advertisers with Access to a Private Deal](/help/dsp/inventory/deal-id-edit-advertisers.md)
     + [List the Placements and Ads for a Private Deal](/help/dsp/inventory/private-deal-view-placements.md)
     + [Archive or Unarchive a Private Deal](/help/dsp/inventory/private-deal-archive-unarchive.md)
-    + [!UICONTROL Simple Ad Serving] Deals {#sas}
-      + [About [!UICONTROL Simple Ad Serving]](/help/dsp/inventory/simple-deal-about.md)
-      + [Create a [!UICONTROL Simple Ad Serving] Deal](/help/dsp/inventory/simple-deal-create.md)
-      + [[!UICONTROL Simple Ad Serving] Deal Settings](/help/dsp/inventory/simple-deal-settings.md)
   + [!UICONTROL Simple Ad Serving] Deals {#sas}
     + [About [!UICONTROL Simple Ad Serving]](/help/dsp/inventory/simple-deal-about.md)
     + [Create a [!UICONTROL Simple Ad Serving] Deal](/help/dsp/inventory/simple-deal-create.md)
