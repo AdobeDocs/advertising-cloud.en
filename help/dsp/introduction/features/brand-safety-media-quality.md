@@ -74,6 +74,10 @@ As part of our Brand Safety initiative to root out activities that defraud adver
 
 When you include a site on the globally blocked sites list as a placement target, the site is flagged with a red exclamation point (!). This indicates that ads will not run on the flagged site.
 
+>[!NOTE]
+>
+>You can optionally bypass the global blocked sites list for standard display ads attached to a trusted private deal by enabling the "[!UICONTROL Allow unscreened sites]" option in the [placement settings](/help/dsp/campaign-management/placements/placement-settings.md). If necessary, the [!DNL Adobe] account team can also optionally disable site blocking for a public (auction-level) deal in the publisher settings for the deal.
+
 #### Account-level and Advertiser-level Blocked Sites Lists
 
 Users can also maintain account-level and advertiser-level blocked sites lists<!-- [account-level and advertiser-level blocked sites lists](/help/dsp/admin/blocked-sites-list-edit.md) -->, which are used automatically for all placements. Lower-level blocked sites list are applied in addition to the globally blocked sites list.
