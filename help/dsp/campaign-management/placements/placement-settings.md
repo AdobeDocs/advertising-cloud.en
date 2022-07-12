@@ -244,7 +244,7 @@ Outstream ads usually appear over the content as a pop-up or stuffed into conten
 
 You can optionally export the list of targeted and blocked sites as a comma-separated values (CSV) file. To export the list, click **[!UICONTROL Export full site list]**, and then open or save the file according to your browser's normal procedure.
 
-<!-- **[!UICONTROL Allow unscreened sites]:** (XXX placements only) Allows you to XXXX.   Optional available for https://advertising.adobe.com/configurator/placement/edit/2432022 -->
+**[!UICONTROL Allow unscreened sites]:** (Standard display placements only) Enables ad delivery on non-audited sites. When the placement targets private inventory, this option may deliver ads on blocked sites.
 
 **[!UICONTROL Paste list of targeted sites]:** Allows you to target specific sites only. When you enable this option, the other site targeting options are disabled.
 
