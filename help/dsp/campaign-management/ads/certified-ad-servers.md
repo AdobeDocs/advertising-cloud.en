@@ -18,7 +18,7 @@ exl-id: 084b4c04-a876-4770-9efc-57268c333aa6
 | [!DNL ADventori] | | X | | | |
 | [!DNL Artsai] | | X | | X | |
 | [!DNL Atlas] | | | | X | |
-| [!DNL Big Ads] | | | X | | | Cube (Desktop), Cube (Mobile), Cards (Desktop), Big Reveal (Desktop). Note all 4 ads are setup in Adobe UI as 300x250. Only certified via Magnite DV+ |
+| [!DNL Big Ads] | | | X | | Cube (Desktop), Cube (Mobile), Cards (Desktop), Big Reveal (Desktop). Set up all of these ad types in DSP as 300x250. Certified only via [!DNL Magnite DV+]. |
 | [!DNL Bonzai] | | | X | | |
 | [!DNL Contobox] | | | X | | |
 | [!DNL Conversant] | | X | | | |
